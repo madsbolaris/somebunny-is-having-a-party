@@ -147,7 +147,15 @@ ORDERED_NAMES_B3 = [
     "Mana Confluence", "City of Brass",
     "Gaea's Cradle",
     "Savannah", "Plateau", "Taiga",
+    "Forest", "Plains",
 ]
+
+
+# Basic lands without Scryfall links — map to cached images directly
+BASIC_LAND_IMAGES = {
+    "Forest": ("fdn_280.jpg", False),
+    "Plains": ("blb_262.jpg", False),
+}
 
 
 def extract_scryfall_urls(theme_file: Path, variant: str) -> list[tuple[str, str, bool]]:
@@ -191,6 +199,10 @@ def extract_scryfall_urls(theme_file: Path, variant: str) -> list[tuple[str, str
         if name in card_map:
             url, bunny = card_map[name]
             expanded.append((name, url, bunny))
+        elif name in BASIC_LAND_IMAGES:
+            # Basic lands use cached images directly, no Scryfall URL
+            cache_name, bunny = BASIC_LAND_IMAGES[name]
+            expanded.append((name, f"BASIC:{cache_name}", bunny))
         else:
             print(f"  WARNING: '{name}' not found in theme analysis for {variant_upper}")
     
@@ -274,6 +286,19 @@ def generate_variant(variant: str):
     
     image_paths = []
     for i, (name, page_url, has_bunny) in enumerate(cards):
+        bunny_marker = " 🐰" if has_bunny else ""
+        
+        if page_url.startswith("BASIC:"):
+            # Basic land — use pre-cached image directly
+            cache_name = page_url.split(":", 1)[1]
+            cache_path = CACHE_DIR / cache_name
+            print(f"  [{i+1}/{len(cards)}] {name} (basic){bunny_marker}")
+            if cache_path.exists():
+                image_paths.append(cache_path)
+            else:
+                print(f"    ERROR: basic land image not found: {cache_path}")
+            continue
+        
         img_url = scryfall_page_to_image_url(page_url)
         # Safe filename from set/collector
         parts = page_url.rstrip("/").split("/card/")[1].split("/")
@@ -281,7 +306,6 @@ def generate_variant(variant: str):
         cache_path = CACHE_DIR / cache_name
         
         status = "cached" if cache_path.exists() else "downloading"
-        bunny_marker = " 🐰" if has_bunny else ""
         print(f"  [{i+1}/{len(cards)}] {name} ({status}){bunny_marker}")
         
         try:

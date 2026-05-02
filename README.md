@@ -1,6 +1,6 @@
 # Somebunny is Having a Party
 
-There's a [Carrot Cake](https://scryfall.com/card/blb/7/carrot-cake) on the table and [Baylen, the Haymaker](https://scryfall.com/card/blb/205/baylen-the-haymaker) is carving it. A few rabbits show up, the cake gets sliced, and suddenly the whole meadow is buzzing.
+[Baylen, the Haymaker](https://scryfall.com/card/blb/205/baylen-the-haymaker) only meant to have a few friends over for [Carrot Cake](https://scryfall.com/card/blb/7/carrot-cake). The meadow had other plans.
 
 [Hare Apparent](https://scryfall.com/card/fdn/15/hare-apparent) keeps bringing plus-ones — twelve copies, each one stronger for every other Hare in the room. [Warren Warleader](https://scryfall.com/card/blb/38/warren-warleader) swings and two more bunnies hop through the door. [Head of the Homestead](https://scryfall.com/card/blb/216/head-of-the-homestead) shows up with friends already behind her. [Valley Questcaller](https://scryfall.com/card/blb/36/valley-questcaller) pumps every newcomer on arrival. [Halo Fountain](https://scryfall.com/card/snc/15/halo-fountain) glitters in the middle of it all, keeping the good times rolling.
 

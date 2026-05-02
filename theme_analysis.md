@@ -19,7 +19,7 @@
 
 | Card | Deck | Scryfall | Rabbit? | Rabbit Art? | Party? | Theme | Justification |
 |------|------|----------|---------|-------------|--------|-------|---------------|
-| Baylen, the Haymaker | Both | [🔗](https://scryfall.com/card/blb/205/baylen-the-haymaker) | ✅ | ✅ | ✅ | 10 | The host with the most. Baylen IS the party — tap two bunnies to fill the snack bowl, tap three to draw the next event, tap four and he puts on a show with trample. Every ability scales with the guest list. |
+| Baylen, the Haymaker | Both | [🔗](https://scryfall.com/card/blb/205/baylen-the-haymaker) | ✅ | ✅ | ✅ | 10 | The host with the most — standing at the head of the table, carving the cake, lanterns strung through the trees behind him. Baylen IS the party. Tap two bunnies to fill the snack bowl, tap three to draw the next event, tap four and he puts on a show with trample. Every ability scales with the guest list. |
 
 ---
 
@@ -75,8 +75,8 @@
 | For the Common Good | Both | [🔗](https://scryfall.com/card/blb/172/for-the-common-good) | ❌ | ✅ | ✅ | 9 | The toast of the evening. Everyone raises a glass and suddenly there are X copies of your best token — each one indestructible until your next turn. A community celebration that leaves everyone standing. |
 | Hop to It | Both | [🔗](https://scryfall.com/card/blb/16/hop-to-it) | ❌ | ✅ | ✅ | 9 | Three bunnies hop out of nowhere. The party just tripled. Simple, efficient, on-theme — three 1/1 Rabbit tokens for three mana. "Hop to it!" is what Baylen says when the appetizers run out. |
 | Shamanic Revelation | Both | [🔗](https://scryfall.com/card/c19/180/shamanic-revelation) | ❌ | ❌ | ✅ | 5 | The mystical intermission. Everyone gathers in a circle for wisdom — draw a card for each creature you control, gain 4 life if any has power 4+. The bigger the crowd, the deeper the revelation. |
-| Natural Order | Both | [🔗](https://scryfall.com/card/ema/177/natural-order) | ❌ | ❌ | ❌ | 4 | One guest takes a hit so the main act can make a grand entrance. Sacrifice a 1/1 rabbit, slam Craterhoof onto the battlefield. The natural order of every good party: small talk, then the headliner. |
-| Finale of Devastation | Both | [🔗](https://scryfall.com/card/cmm/289/finale-of-devastation) | ❌ | ❌ | ✅ | 5 | The grand finale — fireworks, confetti, and the biggest creature in your deck arrives. Cast for X=10+ and everything gets +X/+X and haste. The party ends in devastation. For your opponents. |
+| Natural Order | Both | [🔗](https://scryfall.com/card/ema/177/natural-order) | ❌ | ❌ | ✅ | 5 | One guest takes a hit so the main act can make a grand entrance. Sacrifice a 1/1 rabbit at the feast, Craterhoof rises over the canopy, and suddenly every creature at the table is swinging for lethal. The natural order of every good party: small talk, then the headliner. |
+| Finale of Devastation | Both | [🔗](https://scryfall.com/card/cmm/289/finale-of-devastation) | ❌ | ❌ | ✅ | 6 | The grand finale — the moment Baylen stands up from the table, the canopy parts, and Craterhoof crashes through. Cast for X=10+ and everything gets +X/+X and haste. The party ends in devastation. For your opponents. |
 | Three Visits | Both | [🔗](https://scryfall.com/card/soc/289/three-visits) | ❌ | ❌ | ✅ | 4 | A few friends stop by the grove to pick up supplies before the main event. Fetches a Forest untapped — efficient prep work for the big night. |
 | Nature's Lore | Both | [🔗](https://scryfall.com/card/soc/278/natures-lore) | ❌ | ❌ | ❌ | 3 | Scouting the perfect party venue in the forest. Finds a Forest land and puts it into play untapped. Good logistics, no flavor. |
 | Worldly Tutor | B4 | [🔗](https://scryfall.com/card/dmr/185/worldly-tutor) | ❌ | ❌ | ❌ | 3 | The whisper network. Need Craterhoof? Cadira? Byrke? One green mana at instant speed and the exact creature you need is on top of the deck, ready to walk through the door next turn. The party planner's little black book. |
@@ -88,7 +88,7 @@
 
 | Card | Deck | Scryfall | Rabbit? | Rabbit Art? | Party? | Theme | Justification |
 |------|------|----------|---------|-------------|--------|-------|---------------|
-| Carrot Cake | Both | [🔗](https://scryfall.com/card/blb/7/carrot-cake) | ❌ | ✅ | ✅ | 10 | The centerpiece of the dessert table. A rabbit baked this cake, a rabbit pops out when it arrives, and you get a peek at what's next (scry 1). Sacrifice it later for 3 life — leftovers are still good. Peak party flavor. |
+| Carrot Cake | Both | [🔗](https://scryfall.com/card/blb/7/carrot-cake) | ❌ | ✅ | ✅ | 10 | The layered centerpiece Baylen carves at the head of the table. A rabbit baked this cake, a rabbit pops out when it arrives, and you get a peek at what’s next (scry 1). Sacrifice it later for 3 life — leftovers are still good. Peak party flavor. |
 | Halo Fountain | Both | [🔗](https://scryfall.com/card/snc/15/halo-fountain) | ❌ | ❌ | ✅ | 7 | The decorative fountain in the garden — tap a few guests to make tokens, tap a few more to draw cards, and tap fifteen to literally win the game. The ultimate party trick hidden in plain sight. |
 | Coat of Arms | Both | [🔗](https://scryfall.com/card/dds/58/coat-of-arms) | ❌ | ❌ | ✅ | 7 | The dress code is "matching." Every rabbit wearing the family crest makes every other rabbit bigger. With 12 Hare Apparent at the party, each one is a 12/12. The coat of arms is the party uniform. |
 | The Great Henge | Both | [🔗](https://scryfall.com/card/cmm/294/the-great-henge) | ❌ | ❌ | ✅ | 5 | The ancient monument in the backyard where the real party happens. Every creature that arrives gets a +1/+1 counter and draws a card. It's the gathering place — massive, green, and full of life. |

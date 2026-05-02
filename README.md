@@ -6,9 +6,11 @@
 
 Baylen works the room like he was born for this — tap two bunnies and he fills the snack bowl, tap three and he draws the next surprise, tap four and the whole crowd surges with trample. Meanwhile, the crowd keeps multiplying — [Anointed Procession](https://scryfall.com/card/akh/2/anointed-procession), [Parallel Lives](https://scryfall.com/card/isd/199/parallel-lives), [Doubling Season](https://scryfall.com/card/fdn/216/doubling-season) — every rabbit that arrives brings a twin. Then the music gets louder. [Coat of Arms](https://scryfall.com/card/dds/58/coat-of-arms) makes the matching outfits dangerous, [Cathars' Crusade](https://scryfall.com/card/inr/17/cathars-crusade) hypes the crowd with every new arrival, and once [Jetmir, Nexus of Revels](https://scryfall.com/card/snc/193/jetmir-nexus-of-revels) counts enough heads, the dance floor becomes a stampede.
 
-And then, just when everybunny is having the time of their life, [Natural Order](https://scryfall.com/card/ema/177/natural-order) or [Finale of Devastation](https://scryfall.com/card/cmm/289/finale-of-devastation) sends out one last invitation — and [Craterhoof Behemoth](https://scryfall.com/card/tdm/138/craterhoof-behemoth) crashes the party so hard the hedges don't grow back. Table flipped, cake gone, and the cute little birthday becomes an unstoppable woodland riot. The [Halo Fountain](https://scryfall.com/card/snc/15/halo-fountain) offers a gentler ending — tap a few guests to make tokens, tap a few more to draw cards, and if fifteen creatures are all having a good time at once, the celebration speaks for itself.
+And then, just when everybunny is having the time of their life, [Natural Order](https://scryfall.com/card/ema/177/natural-order) or [Finale of Devastation](https://scryfall.com/card/cmm/289/finale-of-devastation) sends out one last invitation — [Craterhoof Behemoth](https://scryfall.com/card/tdm/138/craterhoof-behemoth) crashes the party so hard the hedges won't grow back. Table flipped, cake gone, and the cute little party becomes an unstoppable woodland riot.
 
-Everybunny's invited. Not everybunny leaves.
+Want a quieter ending? Get fifteen creatures gathered at the [Halo Fountain](https://scryfall.com/card/snc/15/halo-fountain) and the party closes itself out — no behemoth required.
+
+**Everybunny's invited. Not everybunny leaves.**
 
 
 ## The Decks

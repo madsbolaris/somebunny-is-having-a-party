@@ -8,6 +8,8 @@ The doublers keep the guest list growing — [Anointed Procession](https://scryf
 
 Then the main event. [Natural Order](https://scryfall.com/card/ema/177/natural-order) or [Finale of Devastation](https://scryfall.com/card/cmm/289/finale-of-devastation) drops [Craterhoof Behemoth](https://scryfall.com/card/tdm/138/craterhoof-behemoth) onto a board full of rabbits, and the whole table swings for lethal. Or, if you'd rather win with style, [Halo Fountain](https://scryfall.com/card/snc/15/halo-fountain) taps fifteen creatures and the party wins the game outright.
 
+**The party's over — for everyone else.**
+
 ![Deck Mosaic](deck_mosaic_b4.png)
 
 ## The Decks

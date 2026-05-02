@@ -25,7 +25,7 @@ The gala. [Mox Diamond](https://scryfall.com/card/sth/138/mox-diamond) and [Chro
 
 **Decklist**: [decklist_b4.txt](decklist_b4.txt)
 
-![Deck Mosaic](deck_mosaic_b4.png)
+![Deck Mosaic](deck_mosaic_b4_preview.jpg)
 
 ---
 
@@ -36,7 +36,7 @@ The gala. [Mox Diamond](https://scryfall.com/card/sth/138/mox-diamond) and [Chro
 | [decklist_b3.txt](decklist_b3.txt) | Copy-ready Bracket 3 decklist |
 | [decklist_b4.txt](decklist_b4.txt) | Copy-ready Bracket 4 decklist |
 | [theme_analysis.md](theme_analysis.md) | Theme evaluation for every card in both variants |
-| [deck_mosaic_b4.png](deck_mosaic_b4.png) | Visual card mosaic (Bracket 4) |
-| [deck_mosaic_b3.png](deck_mosaic_b3.png) | Visual card mosaic (Bracket 3) |
+| [deck_mosaic_b4_preview.jpg](deck_mosaic_b4_preview.jpg) | Visual card mosaic (Bracket 4) |
+| [deck_mosaic_b3_preview.jpg](deck_mosaic_b3_preview.jpg) | Visual card mosaic (Bracket 3) |
 | [scripts/](scripts/) | Mosaic generation script |
 | [card_images/](card_images/) | Cached card images from Scryfall |

@@ -6,7 +6,7 @@ There's a [Carrot Cake](https://scryfall.com/card/blb/7/carrot-cake) on the tabl
 
 The doublers keep the guest list growing — [Anointed Procession](https://scryfall.com/card/akh/2/anointed-procession), [Parallel Lives](https://scryfall.com/card/isd/199/parallel-lives), [Doubling Season](https://scryfall.com/card/fdn/216/doubling-season) — every rabbit that arrives brings a twin. The anthems keep the energy climbing — [Coat of Arms](https://scryfall.com/card/dds/58/coat-of-arms) turns a crowd of 1/1s into a wall of 12/12s, and [Jetmir](https://scryfall.com/card/snc/193/jetmir-nexus-of-revels) brings vigilance, trample, and double strike as the headcount rises.
 
-Then the main event. [Natural Order](https://scryfall.com/card/ema/177/natural-order), [Finale of Devastation](https://scryfall.com/card/cmm/289/finale-of-devastation) — one rabbit steps aside and [Craterhoof Behemoth](https://scryfall.com/card/tdm/138/craterhoof-behemoth) crashes through. The party's over — for everyone else. Or, if you'd rather win with style, [Halo Fountain](https://scryfall.com/card/snc/15/halo-fountain) taps fifteen untapped creatures and the party wins the game outright.
+Then the main event. [Natural Order](https://scryfall.com/card/ema/177/natural-order) or [Finale of Devastation](https://scryfall.com/card/cmm/289/finale-of-devastation) drops [Craterhoof Behemoth](https://scryfall.com/card/tdm/138/craterhoof-behemoth) onto a board full of rabbits, and the whole table swings for lethal. Or, if you'd rather win with style, [Halo Fountain](https://scryfall.com/card/snc/15/halo-fountain) taps fifteen creatures and the party wins the game outright.
 
 ![Deck Mosaic](deck_mosaic_b4.png)
 

@@ -1,43 +1,32 @@
 # Somebunny is Having a Party
 
-A **Baylen, the Haymaker** Commander deck — Naya (R/G/W) rabbit tribal tokens.
+A forest clearing. Lanterns strung through the branches. A long table loaded with food. Dozens of rabbits gathered around, and [Baylen, the Haymaker](https://scryfall.com/card/blb/205/baylen-the-haymaker) standing at the head — carving the cake.
+
+Then the canopy parts, and [Craterhoof Behemoth](https://scryfall.com/card/tdm/138/craterhoof-behemoth) crashes through. The party's over — for everyone else.
 
 ![Deck Mosaic](deck_mosaic_b4.png)
 
-## The Deck
+## The Party
 
-Somebunny is Having a Party is a go-wide rabbit tribal token deck built around **12 copies of Hare Apparent** and a stack of token doublers. The game plan: flood the board with rabbits, layer anthems and doublers, and finish with Craterhoof Behemoth or Finale of Devastation.
+Twelve identical rabbits show up to the potluck, each one carrying the same dish. [Hare Apparent](https://scryfall.com/card/fdn/15/hare-apparent) — alone they're small, but together every one of them grows stronger for every other Hare at the table.
 
-**Commander**: [Baylen, the Haymaker](https://scryfall.com/card/blb/205/baylen-the-haymaker) — the host of the party. Every ability scales with creature count:
-- Tap 2 creatures: Create a Food token
-- Tap 3 creatures: Draw a card
-- Tap 4 creatures: +X/+X and trample until end of turn
+Baylen works the crowd. Tap two bunnies and he fills the snack bowl. Tap three and he draws the next surprise. Tap four and the whole party surges with trample. The more guests, the bigger the show.
 
-### Key Synergies
+The doublers keep the guest list growing — [Anointed Procession](https://scryfall.com/card/akh/2/anointed-procession), [Parallel Lives](https://scryfall.com/card/isd/199/parallel-lives), [Doubling Season](https://scryfall.com/card/fdn/216/doubling-season). Every rabbit that arrives brings a twin. The anthems keep the energy climbing — [Coat of Arms](https://scryfall.com/card/dds/58/coat-of-arms) turns a crowd of 1/1s into a wall of 12/12s, [Jetmir](https://scryfall.com/card/snc/193/jetmir-nexus-of-revels) brings vigilance, trample, and double strike as the headcount rises.
 
-- **12× Hare Apparent** — each one grows stronger for every other Hare in play
-- **Token Doublers** — Anointed Procession, Parallel Lives, Doubling Season
-- **Tribal Anthems** — Coat of Arms, Cathars' Crusade, Jetmir, Valley Questcaller
-- **Finishers** — Craterhoof Behemoth, Finale of Devastation
-- **Alt Win** — Halo Fountain (tap 15 untapped creatures)
+And when the moment is right — [Natural Order](https://scryfall.com/card/ema/177/natural-order), [Finale of Devastation](https://scryfall.com/card/cmm/289/finale-of-devastation) — one rabbit steps aside and the behemoth arrives. Or, if you'd rather win with style, [Halo Fountain](https://scryfall.com/card/snc/15/halo-fountain) taps fifteen untapped creatures and the party wins the game outright.
 
-### Ideal Game
-
-T1 ramp → T2 Hare Apparent → T3 Baylen → T4 token doubler or Coat of Arms → T5–6 anthem stack → T7 Craterhoof for lethal across the table.
-
----
-
-## Variants
+## The Decks
 
 ### Bracket 3
 
-The build without premium Game Changers. Runs Talismans instead of Moxen, Flawless Maneuver instead of Teferi's Protection, and keeps a couple of basic lands.
+The neighborhood party. Runs [Talismans](https://scryfall.com/card/who/254/talisman-of-unity) instead of Moxen, [Flawless Maneuver](https://scryfall.com/card/c20/26/flawless-maneuver) instead of Teferi's Protection, and keeps a Forest and a Plains in the back pocket. Same rabbits, same cake, slightly smaller venue.
 
 **Decklist**: [decklist_b3.txt](decklist_b3.txt)
 
 ### Bracket 4
 
-The fully optimized build adding 12 Game Changers: Mox Diamond, Chrome Mox, Ancient Tomb, Teferi's Protection, Enlightened Tutor, Worldly Tutor, Smothering Tithe, Survival of the Fittest, and five additional off-color fetches.
+The gala. [Mox Diamond](https://scryfall.com/card/sth/138/mox-diamond) and [Chrome Mox](https://scryfall.com/card/2xm/240/chrome-mox) accelerate the setup, [Teferi's Protection](https://scryfall.com/card/2x2/32/teferis-protection) phases the whole celebration out of danger, and [Survival of the Fittest](https://scryfall.com/card/g09/4/survival-of-the-fittest) makes sure exactly the right guest walks through the door. Same party, higher budget.
 
 **Decklist**: [decklist_b4.txt](decklist_b4.txt)
 

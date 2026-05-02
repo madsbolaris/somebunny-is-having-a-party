@@ -23,14 +23,14 @@
 
 ---
 
-## Creatures (15 unique — 26 cards with 12× Hare Apparent)
+## Creatures (14 unique — 25 cards with 12× Hare Apparent)
 
 | Card | Deck | Scryfall | Rabbit? | Rabbit Art? | Party? | Theme | Justification |
 |------|------|----------|---------|-------------|--------|-------|---------------|
 | Hare Apparent ×12 | Both | [🔗](https://scryfall.com/card/fdn/15/hare-apparent) | ✅ | ✅ | ✅ | 10 | The twelve identical guests who all brought the same dish to the potluck. Alone they're small, but together each one grows stronger for every other Hare in the room. The party wouldn't exist without them. |
 | Warren Warleader | Both | [🔗](https://scryfall.com/card/blb/38/warren-warleader) | ✅ | ✅ | ✅ | 9 | The bouncer who's also the life of the party. Every time she swings, two more bunnies hop through the door and the whole crew gets pumped. Nobody causes trouble on her watch. |
 | Cadira, Caller of the Small | Both | [🔗](https://scryfall.com/card/clb/269/cadira-caller-of-the-small) | ❌ | ✅ | ✅ | 8 | She's not a rabbit herself, but she invited every small friend she knows. One good hit and the guest list doubles — for each token you have, another rabbit arrives. The ultimate party promoter. |
-| Harvestrite Host | Both | [🔗](https://scryfall.com/card/blb/15/harvestrite-host) | ✅ | ✅ | ✅ | 9 | Literally "the host." Every time a new rabbit arrives, someone gets pumped up, and once three guests have walked through the door this turn, she starts handing out party favors (cards). |
+| Harvestrite Host | Both | [🔗](https://scryfall.com/card/blb/15/harvestrite-host) | ✅ | ✅ | ✅ | 9 | Literally "the host." Every time a new rabbit arrives, someone gets pumped up, and the moment a second guest hops through the door this turn, she hands out a party favor (a card). The art is the party in its purest form — rabbits gathered around a harvest table loaded with food, lanterns glowing overhead. Peak celebration energy. |
 | Regal Bunnicorn | Both | [🔗](https://scryfall.com/card/woe/25/regal-bunnicorn) | ✅ | ✅ | ✅ | 9 | The fancy guest who shows up looking better every time someone else arrives. Power and toughness equal to your nonland permanents — at a party this size, she's enormous. |
 | Finneas, Ace Archer | Both | [🔗](https://scryfall.com/card/blb/212/finneas-ace-archer) | ✅ | ✅ | ✅ | 8 | The sharpshooter at the ring-toss booth. Counters stack on rabbits and tokens whenever he attacks, and once the crew's power hits double digits, he draws a card. Competitive party games are his thing. |
 | Head of the Homestead | Both | [🔗](https://scryfall.com/card/blb/216/head-of-the-homestead) | ✅ | ✅ | ✅ | 9 | Opens the front door and immediately two bunnies show up behind her. The Head of the Homestead is the one making sure everyone has a place to sit and a carrot to munch. |
@@ -44,7 +44,7 @@
 
 ---
 
-## Instants (15)
+## Instants (16)
 
 | Card | Deck | Scryfall | Rabbit? | Rabbit Art? | Party? | Theme | Justification |
 |------|------|----------|---------|-------------|--------|-------|---------------|
@@ -54,7 +54,7 @@
 | Eladamri's Call | Both | [🔗](https://scryfall.com/card/mh1/197/eladamris-call) | ❌ | ❌ | ❌ | 3 | A personal invitation delivered by hand to the perfect plus-one. The RSVP is guaranteed — the creature goes straight to your hand. |
 | March of the Multitudes | Both | [🔗](https://scryfall.com/card/ncc/346/march-of-the-multitudes) | ❌ | ❌ | ✅ | 6 | The flash mob arrives. At instant speed, X 1/1 lifelink tokens flood in — convoke lets the existing guests help pay the cover charge. It's not rabbits, but it IS a crowd. |
 | Path to Exile | Both | [🔗](https://scryfall.com/card/soc/159/path-to-exile) | ❌ | ❌ | ❌ | 2 | Security politely escorts the troublemaker out. "Here's a basic land for the road. Don't come back." |
-| Swords to Plowshares | Both | [🔗](https://scryfall.com/card/blc/109/swords-to-plowshares) | ❌ | ✅ | ❌ | 3 | The party's zero-tolerance policy. You're done here. Gain some life on the way out. |
+| Swords to Plowshares | Both | [🔗](https://scryfall.com/card/blc/109/swords-to-plowshares) | ❌ | ✅ | ❌ | 4 | The party's zero-tolerance policy, but the bouncer is a rabbit. This Bloomburrow printing puts a bunny front and center — swords stuck in the ground like fence posts, a rabbit turning weapons into garden tools. "The same muscles used to swing a sword can be used to feed a burrow." Even exile spells get the rabbit treatment in this deck. |
 | Unbreakable Formation | Both | [🔗](https://scryfall.com/card/ltc/179/unbreakable-formation) | ❌ | ❌ | ✅ | 5 | The group photo moment. Everyone strikes a pose, becomes indestructible, and gets a +1/+1 counter as a keepsake. Addendum on your turn makes the memory permanent. |
 | Heroic Intervention | Both | [🔗](https://scryfall.com/card/ltc/249/heroic-intervention) | ❌ | ❌ | ❌ | 3 | The moment someone tries to ruin the party and every guest stands their ground — hexproof and indestructible. Nobody's going home early. |
 | Boros Charm | Both | [🔗](https://scryfall.com/card/fdn/721/boros-charm) | ❌ | ❌ | ❌ | 3 | The party's emergency backup plan. Three modes: double strike (the dance-off), indestructible (the bunker), or four damage to the face (the farewell punch). |
@@ -63,24 +63,24 @@
 | Enlightened Tutor | B4 | [🔗](https://scryfall.com/card/dmr/6/enlightened-tutor) | ❌ | ❌ | ❌ | 2 | The party planner who knows exactly where the best decorations (enchantments) and equipment (artifacts) are stored. Not flashy, but the party wouldn't run without her. |
 | Flawless Maneuver | B3 | [🔗](https://scryfall.com/card/c20/26/flawless-maneuver) | ❌ | ❌ | ✅ | 4 | The effortless sidestep when someone tries to crash the party. Free with your commander out — Baylen waves his paw and the whole crew dodges destruction. |
 | Congregation at Dawn | B3 | [🔗](https://scryfall.com/card/rav/198/congregation-at-dawn) | ❌ | ❌ | ✅ | 4 | Sending out three invitations at once. Search for three creatures and stack them on top — the next three guests are arriving in the exact right order. The party's lineup is set. |
+| Second Harvest | Both | [🔗](https://scryfall.com/card/blc/123/second-harvest) | ❌ | ✅ | ✅ | 8 | The caterer shows up with a second round of everything. Every token on the board gets a twin. The harvest metaphor doubles as a feast metaphor — seconds, anyone? |
 
 ---
 
-## Sorceries (11)
+## Sorceries (10)
 
 | Card | Deck | Scryfall | Rabbit? | Rabbit Art? | Party? | Theme | Justification |
 |------|------|----------|---------|-------------|--------|-------|---------------|
 | Season of the Burrow | Both | [🔗](https://scryfall.com/card/blb/29/season-of-the-burrow) | ❌ | ✅ | ✅ | 9 | The official party season. The burrow opens its doors and the celebrations begin — five modes worth of rabbit festivities: make a token, exile a threat, return a guest from the grave. The season demands revelry. |
 | For the Common Good | Both | [🔗](https://scryfall.com/card/blb/172/for-the-common-good) | ❌ | ✅ | ✅ | 9 | The toast of the evening. Everyone raises a glass and suddenly there are X copies of your best token — each one indestructible until your next turn. A community celebration that leaves everyone standing. |
 | Hop to It | Both | [🔗](https://scryfall.com/card/blb/16/hop-to-it) | ❌ | ✅ | ✅ | 9 | Three bunnies hop out of nowhere. The party just tripled. Simple, efficient, on-theme — three 1/1 Rabbit tokens for three mana. "Hop to it!" is what Baylen says when the appetizers run out. |
-| Second Harvest | Both | [🔗](https://scryfall.com/card/blc/123/second-harvest) | ❌ | ✅ | ✅ | 8 | The caterer shows up with a second round of everything. Every token on the board gets a twin. The harvest metaphor doubles as a feast metaphor — seconds, anyone? |
 | Shamanic Revelation | Both | [🔗](https://scryfall.com/card/c19/180/shamanic-revelation) | ❌ | ❌ | ✅ | 5 | The mystical intermission. Everyone gathers in a circle for wisdom — draw a card for each creature you control, gain 4 life if any has power 4+. The bigger the crowd, the deeper the revelation. |
 | Natural Order | Both | [🔗](https://scryfall.com/card/ema/177/natural-order) | ❌ | ❌ | ❌ | 4 | One guest takes a hit so the main act can make a grand entrance. Sacrifice a 1/1 rabbit, slam Craterhoof onto the battlefield. The natural order of every good party: small talk, then the headliner. |
 | Finale of Devastation | Both | [🔗](https://scryfall.com/card/cmm/289/finale-of-devastation) | ❌ | ❌ | ✅ | 5 | The grand finale — fireworks, confetti, and the biggest creature in your deck arrives. Cast for X=10+ and everything gets +X/+X and haste. The party ends in devastation. For your opponents. |
 | Three Visits | Both | [🔗](https://scryfall.com/card/soc/289/three-visits) | ❌ | ❌ | ✅ | 4 | A few friends stop by the grove to pick up supplies before the main event. Fetches a Forest untapped — efficient prep work for the big night. |
 | Nature's Lore | Both | [🔗](https://scryfall.com/card/soc/278/natures-lore) | ❌ | ❌ | ❌ | 3 | Scouting the perfect party venue in the forest. Finds a Forest land and puts it into play untapped. Good logistics, no flavor. |
 | Worldly Tutor | B4 | [🔗](https://scryfall.com/card/dmr/185/worldly-tutor) | ❌ | ❌ | ❌ | 3 | The whisper network. Need Craterhoof? Cadira? Byrke? One green mana at instant speed and the exact creature you need is on top of the deck, ready to walk through the door next turn. The party planner's little black book. |
-| Sylvan Tutor | B3 | [🔗](https://scryfall.com/card/por/188/sylvan-tutor) | ❌ | ❌ | ❌ | 3 | The forest courier carrying a single invitation. One green mana, one creature moved to the top of the library. Same job as Worldly Tutor, but at sorcery speed — the mail carrier works during business hours only. |
+| Sylvan Tutor | B3 | [🔗](https://scryfall.com/card/j20/8/sylvan-tutor) | ❌ | ❌ | ❌ | 3 | The forest courier carrying a single invitation. One green mana, one creature moved to the top of the library. Same job as Worldly Tutor, but at sorcery speed — the mail carrier works during business hours only. |
 
 ---
 
@@ -98,7 +98,7 @@
 | Swiftfoot Boots | Both | [🔗](https://scryfall.com/card/pl23/4/swiftfoot-boots) | ❌ | ✅ | ✅ | 6 | The lucky rabbit's foot charm — strap these on and Baylen hits the dance floor with haste, untouchable behind hexproof. Year of the Rabbit edition, because every good party needs running shoes for the afterparty. |
 | Mox Diamond | B4 | [🔗](https://scryfall.com/card/sth/138/mox-diamond) | ❌ | ❌ | ❌ | 2 | The diamond-encrusted party invite. Costs you a land to get in, but you're immediately VIP with turn-one fast mana. Opulence over theme. |
 | Chrome Mox | B4 | [🔗](https://scryfall.com/card/2xm/240/chrome-mox) | ❌ | ❌ | ❌ | 1 | The chrome bottle opener. Pitch a card, pour the drinks faster. Zero flavor, maximum speed. |
-| Talisman of Unity | B3 | [🔗](https://scryfall.com/card/mrd/257/talisman-of-unity) | ❌ | ❌ | ✅ | 3 | The green-white unity charm worn by every guest. Taps for colorless or either of Baylen's primary colors at a pinch of life. A party favor that keeps the mana flowing. |
+| Talisman of Unity | B3 | [🔗](https://scryfall.com/card/who/254/talisman-of-unity) | ❌ | ❌ | ✅ | 3 | The green-white unity charm worn by every guest. Taps for colorless or either of Baylen's primary colors at a pinch of life. A party favor that keeps the mana flowing. |
 | Talisman of Impulse | B3 | [🔗](https://scryfall.com/card/mrd/254/talisman-of-impulse) | ❌ | ❌ | ✅ | 3 | The red-green impulse charm for the wild side of the celebration. When the party needs a spark of red mana energy, this talisman delivers — at a cost. |
 
 ---
@@ -108,7 +108,7 @@
 | Card | Deck | Scryfall | Rabbit? | Rabbit Art? | Party? | Theme | Justification |
 |------|------|----------|---------|-------------|--------|-------|---------------|
 | Tocasia's Welcome | Both | [🔗](https://scryfall.com/card/soc/181/tocasias-welcome) | ❌ | ❌ | ✅ | 7 | The welcome mat at the front door. Every small creature (mana value 3 or less) who arrives draws you a card. In a deck full of 1/1 rabbits, the welcome never ends. |
-| Caretaker's Talent | Both | [🔗](https://scryfall.com/card/blb/6/caretakers-talent) | ❌ | ✅ | ✅ | 8 | The event coordinator managing the RSVP list, snack supply, and emergency contacts. A Class enchantment that levels up — first draws cards off small creature ETBs, then increases hand size, then boosts your whole team. Bloomburrow party infrastructure. |
+| Caretaker's Talent | Both | [🔗](https://scryfall.com/card/blb/6/caretakers-talent) | ❌ | ✅ | ✅ | 8 | The event coordinator managing the RSVP list, snack supply, and emergency contacts. A Class enchantment that levels up — first draws a card whenever tokens arrive, then copies your best token as a party favor, and finally pumps every token creature +2/+2 for the grand finale. Bloomburrow party infrastructure. |
 | Intangible Virtue | Both | [🔗](https://scryfall.com/card/inr/29/intangible-virtue) | ❌ | ❌ | ✅ | 6 | The party spirit — invisible but felt by everyone. All your tokens are bigger (+1/+1) and have vigilance. The vibe is immaculate. The energy never sleeps. |
 | Anointed Procession | Both | [🔗](https://scryfall.com/card/akh/2/anointed-procession) | ❌ | ❌ | ✅ | 6 | The conga line that doubles every time it loops around the dance floor. Every token you'd create, you create two instead. The procession to the party is half the fun. |
 | Parallel Lives | Both | [🔗](https://scryfall.com/card/isd/199/parallel-lives) | ❌ | ❌ | ✅ | 5 | The mirror ball splits every token into two. Same deal as Anointed Procession but in green — every rabbit brings a twin. The party doubles in parallel. |
@@ -117,7 +117,7 @@
 | Cathars' Crusade | Both | [🔗](https://scryfall.com/card/inr/17/cathars-crusade) | ❌ | ❌ | ✅ | 5 | Every new guest gets the crowd more pumped — permanently. Each creature ETB puts a +1/+1 counter on everything. The crusade is just the party reaching critical mass and spilling into the streets. |
 | Aura Shards | Both | [🔗](https://scryfall.com/card/cmd/182/aura-shards) | ❌ | ❌ | ❌ | 3 | The party's cleanup crew. Every creature that enters shatters an opponent's artifact or enchantment. They're not here for the fun — they're here to break the opposition's toys. |
 | Smothering Tithe | B4 | [🔗](https://scryfall.com/card/p22/5/smothering-tithe) | ❌ | ❌ | ✅ | 4 | The cover charge. Every time an opponent draws, they pay 2 or you get a Treasure. The party has a velvet rope and a minimum spend. Someone has to fund the decorations. |
-| Survival of the Fittest | B4 | [🔗](https://scryfall.com/card/exo/137/survival-of-the-fittest) | ❌ | ❌ | ❌ | 2 | The VIP list. Discard any creature, search for the exact one you want. Ruthlessly efficient guest management — only the fittest survive the final cut. |
+| Survival of the Fittest | B4 | [🔗](https://scryfall.com/card/g09/4/survival-of-the-fittest) | ❌ | ❌ | ❌ | 2 | The VIP list. Discard any creature, search for the exact one you want. Ruthlessly efficient guest management — only the fittest survive the final cut. |
 
 ---
 
@@ -149,7 +149,7 @@
 | Exotic Orchard | Both | [🔗](https://scryfall.com/card/ecc/148/exotic-orchard) | ❌ | ❌ | ✅ | 4 | The exotic fruit garden where the cocktail ingredients come from. Taps for any color your opponents' lands can make — borrowing from the neighbors' orchard for the party punch. |
 | Command Tower | Both | [🔗](https://scryfall.com/card/ecc/59/command-tower) | ❌ | ❌ | ❌ | 2 | The watchtower. Taps for any color in your commander's identity. Every Commander deck has one. It's the fire exit sign — mandatory, not festive. |
 | Mana Confluence | Both | [🔗](https://scryfall.com/card/exp/42/mana-confluence) | ❌ | ❌ | ✅ | 4 | The place where all paths meet. Any color, 1 life. The crossroads where guests from every walk of life converge on the party. |
-| City of Brass | Both | [🔗](https://scryfall.com/card/tmc/62/city-of-brass) | ❌ | ❌ | ✅ | 4 | The ancient city that never sleeps. Tap for any color, take 1 damage. The party's in the city tonight and every color is welcome. |
+| City of Brass | Both | [🔗](https://scryfall.com/card/tmc/62/city-of-brass) | ❌ | ❌ | ✅ | 5 | The neon-drenched city that never closes. This TMC printing is literally a futuristic party skyline — pink spotlights, glowing highways, the whole strip lit up like New Year's Eve. The flavor text even says "It's like the future's a party that these brothers just crashed." Tap for any color, take 1 damage. The cover charge for the hottest venue in the multiverse. |
 | Gaea's Cradle | Both | [🔗](https://scryfall.com/card/usg/321/gaeas-cradle) | ❌ | ❌ | ✅ | 6 | The legendary party grounds. Every creature on the field adds one green mana — with 15 rabbits, this taps for 15. The cradle of the celebration. The bigger the party, the more energy it produces. |
 | Flooded Strand | B4 | [🔗](https://scryfall.com/card/exp/16/flooded-strand) | ❌ | ❌ | ❌ | 1 | The beach where guests arrive by boat. Fetches a Plains or Island (but you have no Islands). Functional mana fixing with zero party energy. |
 | Verdant Catacombs | B4 | [🔗](https://scryfall.com/card/mh2/260/verdant-catacombs) | ❌ | ❌ | ❌ | 1 | The underground tunnel system. Fetches Swamp or Forest (you have no Swamps, but plenty of Forests). The catacombs are the backstage hallways of the venue. |
@@ -158,7 +158,7 @@
 | Misty Rainforest | B4 | [🔗](https://scryfall.com/card/mh2/250/misty-rainforest) | ❌ | ❌ | ❌ | 1 | The foggy trail to the venue. Fetches Forest or Island. Grabs Savannah, Taiga, or Stomping Ground. Atmospheric, but not festive. |
 | Jetmir's Garden | B3 | [🔗](https://scryfall.com/card/snc/250/jetmirs-garden) | ❌ | ❌ | ✅ | 7 | Jetmir's personal garden — the VIP section's actual venue. A triome that taps for all three of Baylen's colors and has cycling when you're flooded. The Garden is where the Revels happen. |
 | Horizon Canopy | B3 | [🔗](https://scryfall.com/card/ima/240/horizon-canopy) | ❌ | ❌ | ✅ | 3 | The treehouse canopy overlooking the party. Green-white mana at a life cost, and when you're done watching from above, sacrifice it to draw a card and join the fun. |
-| Wooded Bastion | B3 | [🔗](https://scryfall.com/card/shm/281/wooded-bastion) | ❌ | ❌ | ❌ | 2 | The old bastion hidden in the woods. Filters colorless into green or white pairs. A defensive outpost with no party energy — just utility. |
+| Wooded Bastion | B3 | [🔗](https://scryfall.com/card/exp/30/wooded-bastion) | ❌ | ❌ | ❌ | 2 | The old bastion hidden in the woods. Filters colorless into green or white pairs. A defensive outpost with no party energy — just utility. |
 | Inspiring Vantage | B3 | [🔗](https://scryfall.com/card/kld/246/inspiring-vantage) | ❌ | ❌ | ✅ | 3 | The balcony with a view of the celebration. Red-white fast land — untapped in the first three turns when the party's still getting started. The vantage point where you plan the evening. |
 | Forest | B3 | — | ❌ | ❌ | ❌ | 2 | The grove where the party supplies grow. A basic land — humble, fetchable, and always reliable. |
 | Plains | B3 | — | ❌ | ❌ | ❌ | 2 | The open field where the tent goes up. A basic land — the blank canvas for the celebration. |
@@ -170,21 +170,21 @@
 | Category | Total Cards | Avg Theme | Rabbits | Rabbit Art | Party | Both | B3 Only | B4 Only |
 |----------|-------------|-----------|---------|------------|-------|------|---------|---------|
 | Commander | 1 | 10.0 | 1 | 1 | 1 | 1 | 0 | 0 |
-| Creatures | 15 | 7.6 | 10 | 11 | 13 | 13 | 1 | 0 |
-| Instants | 15 | 4.3 | 0 | 1 | 8 | 11 | 2 | 2 |
-| Sorceries | 11 | 5.6 | 0 | 3 | 7 | 9 | 1 | 1 |
-| Artifacts | 12 | 4.5 | 0 | 1 | 6 | 8 | 2 | 2 |
-| Enchantments | 11 | 4.4 | 0 | 1 | 8 | 9 | 0 | 2 |
-| Lands | 37 | 3.0 | 0 | 0 | 14 | 26 | 6 | 5 |
-| **Total** | **102** | **4.4** | **11** | **18** | **57** | **77** | **12** | **12** |
+| Creatures | 14 | 7.8 | 9 | 10 | 14 | 13 | 1 | 0 |
+| Instants | 16 | 4.6 | 0 | 3 | 10 | 12 | 2 | 2 |
+| Sorceries | 10 | 5.4 | 0 | 3 | 6 | 8 | 1 | 1 |
+| Artifacts | 12 | 4.4 | 0 | 2 | 9 | 8 | 2 | 2 |
+| Enchantments | 11 | 4.8 | 0 | 1 | 8 | 9 | 0 | 2 |
+| Lands | 37 | 3.2 | 0 | 0 | 15 | 26 | 6 | 5 |
+| **Total** | **101** | **4.7** | **10** | **20** | **63** | **77** | **12** | **12** |
 
 ### Key Takeaways
 
-- **11 of 102 unique cards are Rabbits** by creature type — the tribal core is tight and focused.
-- **18 cards feature rabbit art** — almost all Bloomburrow (BLB) originals.
-- **57 of 102 cards have a party connection** — over half the deck tells the "Somebunny is Having a Party" story through name, flavor, or function.
+- **10 of 101 unique cards are Rabbits** by creature type — the tribal core is tight and focused.
+- **20 cards feature rabbit art** — almost all Bloomburrow (BLB) originals.
+- **63 of 101 cards have a party connection** — over half the deck tells the "Somebunny is Having a Party" story through name, flavor, or function.
 - **77 cards are shared** between B3 and B4 — the core identity is the same across both brackets.
 - **12 cards are unique to each variant** — B4 gains power (Mox Diamond, Teferi's Protection, Survival of the Fittest) while B3 keeps budget-friendly alternatives (Talismans, Flawless Maneuver, Druid of the Spade).
-- **Highest theme density**: Creatures (avg 7.6) and Sorceries (avg 5.6) — the rabbits and their party activities carry the theme.
-- **Lowest theme density**: Lands (avg 3.0) — necessary mana infrastructure, but The Shire, Jetmir's Garden, and Cavern of Souls are standout thematic lands.
+- **Highest theme density**: Creatures (avg 7.8) and Sorceries (avg 5.4) — the rabbits and their party activities carry the theme.
+- **Lowest theme density**: Lands (avg 3.2) — necessary mana infrastructure, but The Shire, Jetmir's Garden, and Cavern of Souls are standout thematic lands.
 - **Pure power cards with minimal theme**: Sol Ring, Chrome Mox, Skullclamp, Sylvan Library, Survival of the Fittest, Enlightened Tutor — these are here because they win games, not because they're invited to the party.

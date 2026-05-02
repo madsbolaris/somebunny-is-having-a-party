@@ -1,6 +1,6 @@
 # Somebunny is Having a Party
 
-A forest clearing. Lanterns strung through the branches. A long table loaded with food. Dozens of rabbits gathered around, and [Baylen, the Haymaker](https://scryfall.com/card/blb/205/baylen-the-haymaker) standing at the head — carving the cake.
+There's a [Carrot Cake](https://scryfall.com/card/blb/7/carrot-cake) on the table and [Baylen, the Haymaker](https://scryfall.com/card/blb/205/baylen-the-haymaker) is carving it. The guest list? Twelve identical rabbits who all brought the same dish — and every doubler in Naya to make sure the party never stops growing.
 
 Twelve identical rabbits show up to the potluck, each one carrying the same dish. [Hare Apparent](https://scryfall.com/card/fdn/15/hare-apparent) — alone they're small, but together every one grows stronger for every other Hare at the table. Baylen works the crowd. Tap two bunnies and he fills the snack bowl. Tap three and he draws the next surprise. Tap four and the whole party surges with trample.
 

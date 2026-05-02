@@ -49,7 +49,7 @@ The fully optimized build adding 12 Game Changers: Mox Diamond, Chrome Mox, Anci
 |------|-------------|
 | [decklist_b3.txt](decklist_b3.txt) | Copy-ready Bracket 3 decklist |
 | [decklist_b4.txt](decklist_b4.txt) | Copy-ready Bracket 4 decklist |
-| [THEME_ANALYSIS.md](THEME_ANALYSIS.md) | Theme evaluation for every card in both variants |
+| [theme_analysis.md](theme_analysis.md) | Theme evaluation for every card in both variants |
 | [deck_mosaic_b4.png](deck_mosaic_b4.png) | Visual card mosaic (Bracket 4) |
 | [deck_mosaic_b3.png](deck_mosaic_b3.png) | Visual card mosaic (Bracket 3) |
 | [scripts/](scripts/) | Mosaic generation script |

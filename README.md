@@ -2,19 +2,13 @@
 
 A forest clearing. Lanterns strung through the branches. A long table loaded with food. Dozens of rabbits gathered around, and [Baylen, the Haymaker](https://scryfall.com/card/blb/205/baylen-the-haymaker) standing at the head — carving the cake.
 
-Then the canopy parts, and [Craterhoof Behemoth](https://scryfall.com/card/tdm/138/craterhoof-behemoth) crashes through. The party's over — for everyone else.
+Twelve identical rabbits show up to the potluck, each one carrying the same dish. [Hare Apparent](https://scryfall.com/card/fdn/15/hare-apparent) — alone they're small, but together every one grows stronger for every other Hare at the table. Baylen works the crowd. Tap two bunnies and he fills the snack bowl. Tap three and he draws the next surprise. Tap four and the whole party surges with trample.
+
+The doublers keep the guest list growing — [Anointed Procession](https://scryfall.com/card/akh/2/anointed-procession), [Parallel Lives](https://scryfall.com/card/isd/199/parallel-lives), [Doubling Season](https://scryfall.com/card/fdn/216/doubling-season) — every rabbit that arrives brings a twin. The anthems keep the energy climbing — [Coat of Arms](https://scryfall.com/card/dds/58/coat-of-arms) turns a crowd of 1/1s into a wall of 12/12s, and [Jetmir](https://scryfall.com/card/snc/193/jetmir-nexus-of-revels) brings vigilance, trample, and double strike as the headcount rises.
+
+Then the canopy parts. [Natural Order](https://scryfall.com/card/ema/177/natural-order), [Finale of Devastation](https://scryfall.com/card/cmm/289/finale-of-devastation) — one rabbit steps aside and [Craterhoof Behemoth](https://scryfall.com/card/tdm/138/craterhoof-behemoth) crashes through. The party's over — for everyone else. Or, if you'd rather win with style, [Halo Fountain](https://scryfall.com/card/snc/15/halo-fountain) taps fifteen untapped creatures and the party wins the game outright.
 
 ![Deck Mosaic](deck_mosaic_b4.png)
-
-## The Party
-
-Twelve identical rabbits show up to the potluck, each one carrying the same dish. [Hare Apparent](https://scryfall.com/card/fdn/15/hare-apparent) — alone they're small, but together every one of them grows stronger for every other Hare at the table.
-
-Baylen works the crowd. Tap two bunnies and he fills the snack bowl. Tap three and he draws the next surprise. Tap four and the whole party surges with trample. The more guests, the bigger the show.
-
-The doublers keep the guest list growing — [Anointed Procession](https://scryfall.com/card/akh/2/anointed-procession), [Parallel Lives](https://scryfall.com/card/isd/199/parallel-lives), [Doubling Season](https://scryfall.com/card/fdn/216/doubling-season). Every rabbit that arrives brings a twin. The anthems keep the energy climbing — [Coat of Arms](https://scryfall.com/card/dds/58/coat-of-arms) turns a crowd of 1/1s into a wall of 12/12s, [Jetmir](https://scryfall.com/card/snc/193/jetmir-nexus-of-revels) brings vigilance, trample, and double strike as the headcount rises.
-
-And when the moment is right — [Natural Order](https://scryfall.com/card/ema/177/natural-order), [Finale of Devastation](https://scryfall.com/card/cmm/289/finale-of-devastation) — one rabbit steps aside and the behemoth arrives. Or, if you'd rather win with style, [Halo Fountain](https://scryfall.com/card/snc/15/halo-fountain) taps fifteen untapped creatures and the party wins the game outright.
 
 ## The Decks
 

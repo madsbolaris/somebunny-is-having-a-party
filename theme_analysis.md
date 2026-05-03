@@ -125,7 +125,7 @@
 
 | Card | Deck | Scryfall | Rabbit? | Rabbit Art? | Party? | Theme | Justification |
 |------|------|----------|---------|-------------|--------|-------|---------------|
-| Cavern of Souls | Both | [🔗](https://scryfall.com/card/zne/22/cavern-of-souls) | ❌ | ❌ | ✅ | 6 | The underground venue. Name "Rabbit" and every bunny that enters is uncounterable. The cavern protects the party from blue mages trying to shut it down. |
+| Cavern of Souls | Both | [🔗](https://scryfall.com/card/lci/269/cavern-of-souls) | ❌ | ❌ | ✅ | 6 | The underground venue. Name "Rabbit" and every bunny that enters is uncounterable. The cavern protects the party from blue mages trying to shut it down. |
 | Savannah | Both | [🔗](https://scryfall.com/card/3ed/285/savannah) | ❌ | ❌ | ❌ | 3 | The open grassland where rabbits naturally gather. Dual land, no drama, just green and white mana flowing like punch at the bowl. |
 | Brushland | Both | [🔗](https://scryfall.com/card/ltc/297/brushland) | ❌ | ❌ | ❌ | 3 | The brush-covered field where the early arrivals set up camp. Costs 1 life per colored mana — the price of showing up first. |
 | Plateau | Both | [🔗](https://scryfall.com/card/3ed/284/plateau) | ❌ | ❌ | ❌ | 3 | The high ground with a view of the whole party. Red-white dual, flat and reliable. A good vantage point for Warren Warleader. |

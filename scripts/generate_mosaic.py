@@ -78,7 +78,7 @@ ORDERED_NAMES_B4 = [
     # Row 9: Fetches + mana-fixing lands
     "Windswept Heath", "Wooded Foothills", "Arid Mesa",
     "Misty Rainforest", "Flooded Strand",
-    "Verdant Catacombs", "Bloodstained Mire",
+    "Verdant Catacombs", "Plains",
     "Reflecting Pool", "Exotic Orchard", "Command Tower",
     # Row 10: Channel lands + five-color + reserved list / old border
     "Fortified Village", "Boseiju, Who Endures",

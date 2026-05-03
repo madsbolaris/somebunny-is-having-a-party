@@ -84,7 +84,7 @@
 1 Sacred Foundry
 1 Stomping Ground
 1 Verdant Catacombs
-1 Bloodstained Mire
+1 Plains
 1 Wasteland
 1 Exotic Orchard
 1 Command Tower

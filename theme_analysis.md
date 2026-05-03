@@ -120,7 +120,7 @@
 
 ---
 
-## Lands (38)
+## Lands (37)
 
 | Card | Deck | Scryfall | Rabbit? | Rabbit Art? | Party? | Theme | Justification |
 |------|------|----------|---------|-------------|--------|-------|---------------|
@@ -153,7 +153,6 @@
 | Gaea's Cradle | Both | [🔗](https://scryfall.com/card/usg/321/gaeas-cradle) | ❌ | ❌ | ✅ | 6 | The legendary party grounds. Every creature on the field adds one green mana — with 15 rabbits, this taps for 15. The cradle of the celebration. The bigger the party, the more energy it produces. |
 | Flooded Strand | B4 | [🔗](https://scryfall.com/card/mh3/220/flooded-strand) | ❌ | ❌ | ❌ | 1 | The beach where guests arrive by boat. Fetches a Plains or Island (but you have no Islands). Functional mana fixing with zero party energy. |
 | Verdant Catacombs | B4 | [🔗](https://scryfall.com/card/mh2/260/verdant-catacombs) | ❌ | ❌ | ❌ | 1 | The underground tunnel system. Fetches Swamp or Forest (you have no Swamps, but plenty of Forests). The catacombs are the backstage hallways of the venue. |
-| Bloodstained Mire | B4 | [🔗](https://scryfall.com/card/mh3/216/bloodstained-mire) | ❌ | ❌ | ❌ | 1 | The swamp nobody talks about. Fetches Swamp or Mountain — grabs Stomping Ground or Plateau in a pinch. The party's loading dock. |
 | Ancient Tomb | B4 | [🔗](https://scryfall.com/card/uma/236/ancient-tomb) | ❌ | ❌ | ❌ | 2 | The after-hours venue. Two colorless mana, two life. The tomb opens late, hits hard, and doesn't care about your theme. Pure power. |
 | Misty Rainforest | B4 | [🔗](https://scryfall.com/card/mh2/250/misty-rainforest) | ❌ | ❌ | ❌ | 1 | The foggy trail to the venue. Fetches Forest or Island. Grabs Savannah, Taiga, or Stomping Ground. Atmospheric, but not festive. |
 | Jetmir's Garden | B3 | [🔗](https://scryfall.com/card/snc/250/jetmirs-garden) | ❌ | ❌ | ✅ | 7 | Jetmir's personal garden — the VIP section's actual venue. A triome that taps for all three of Baylen's colors and has cycling when you're flooded. The Garden is where the Revels happen. |
@@ -161,7 +160,7 @@
 | Wooded Bastion | B3 | [🔗](https://scryfall.com/card/exp/30/wooded-bastion) | ❌ | ❌ | ❌ | 2 | The old bastion hidden in the woods. Filters colorless into green or white pairs. A defensive outpost with no party energy — just utility. |
 | Inspiring Vantage | B3 | [🔗](https://scryfall.com/card/kld/246/inspiring-vantage) | ❌ | ❌ | ✅ | 3 | The balcony with a view of the celebration. Red-white fast land — untapped in the first three turns when the party's still getting started. The vantage point where you plan the evening. |
 | Forest | B3 | — | ❌ | ❌ | ❌ | 2 | The grove where the party supplies grow. A basic land — humble, fetchable, and always reliable. |
-| Plains | B3 | — | ❌ | ❌ | ❌ | 2 | The open field where the tent goes up. A basic land — the blank canvas for the celebration. |
+| Plains | Both | — | ❌ | ❌ | ❌ | 2 | The open field where the tent goes up. A basic land — the blank canvas for the celebration. |
 
 ---
 
@@ -175,16 +174,16 @@
 | Sorceries | 9 | 5.7 | 0 | 3 | 6 | 7 | 1 | 1 |
 | Artifacts | 12 | 4.4 | 0 | 2 | 9 | 8 | 2 | 2 |
 | Enchantments | 11 | 4.8 | 0 | 1 | 8 | 9 | 0 | 2 |
-| Lands | 38 | 3.4 | 0 | 0 | 18 | 27 | 6 | 5 |
-| **Total** | **101** | **4.8** | **10** | **20** | **66** | **77** | **12** | **12** |
+| Lands | 37 | 3.5 | 0 | 0 | 18 | 28 | 5 | 4 |
+| **Total** | **100** | **4.8** | **10** | **20** | **66** | **78** | **11** | **11** |
 
 ### Key Takeaways
 
-- **10 of 101 unique cards are Rabbits** by creature type — the tribal core is tight and focused.
+- **10 of 100 unique cards are Rabbits** by creature type — the tribal core is tight and focused.
 - **20 cards feature rabbit art** — almost all Bloomburrow (BLB) originals.
-- **66 of 101 cards have a party connection** — over half the deck tells the "Somebunny is Having a Party" story through name, flavor, or function.
-- **77 cards are shared** between B3 and B4 — the core identity is the same across both brackets.
-- **12 cards are unique to each variant** — B4 gains power (Mox Diamond, Teferi's Protection, Survival of the Fittest) while B3 keeps budget-friendly alternatives (Talismans, Flawless Maneuver, Druid of the Spade).
+- **66 of 100 cards have a party connection** — over half the deck tells the "Somebunny is Having a Party" story through name, flavor, or function.
+- **78 cards are shared** between B3 and B4 — the core identity is the same across both brackets.
+- **11 cards are unique to each variant** — B4 gains power (Mox Diamond, Teferi's Protection, Survival of the Fittest) while B3 keeps budget-friendly alternatives (Talismans, Flawless Maneuver, Druid of the Spade).
 - **Highest theme density**: Creatures (avg 7.9) and Sorceries (avg 5.7) — the rabbits and their party activities carry the theme.
 - **Lowest theme density**: Lands (avg 3.4) — necessary mana infrastructure, but The Shire, Windbrisk Heights, Minas Tirith, Nykthos, and Fortified Village are standout thematic lands.
 - **Pure power cards with minimal theme**: Sol Ring, Chrome Mox, Skullclamp, Sylvan Library, Survival of the Fittest, Enlightened Tutor — these are here because they win games, not because they're invited to the party.

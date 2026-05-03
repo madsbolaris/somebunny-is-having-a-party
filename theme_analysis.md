@@ -172,6 +172,8 @@ Cards swapped out for 1v1 play. Swap back in for pod games (3-4 players).
 |------|------|----------|-----------|-------------|
 | Bountiful Promenade | Both | [🔗](https://scryfall.com/card/clb/348/bountiful-promenade) | Razorverge Thicket | Always enters tapped in 1v1 (needs 2+ opponents). Excellent in pods. |
 | Sunpetal Grove | Both | [🔗](https://scryfall.com/card/tdc/399/sunpetal-grove) | Branchloft Pathway | Enters tapped too often in early turns. Pathway is always untapped. |
+| Spectator Seating | Both | [🔗](https://scryfall.com/card/cmm/430/spectator-seating) | Razorverge Thicket | R/W crowd land — always tapped in 1v1. In pods, shores up the weakest color pair. |
+| Spire Garden | Both | [🔗](https://scryfall.com/card/bbd/85/spire-garden) | Branchloft Pathway | R/G crowd land — same deal. In pods, another untapped source for the bonfire colors. |
 
 ---
 

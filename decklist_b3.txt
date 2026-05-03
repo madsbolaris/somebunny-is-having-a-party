@@ -60,7 +60,7 @@
 1 Cathars' Crusade
 1 Aura Shards
 
-1 Cavern of Souls
+1 Minas Tirith
 1 Horizon Canopy
 1 Brushland
 1 Plateau
@@ -74,7 +74,7 @@
 1 Wooded Bastion
 1 Reflecting Pool
 1 Temple Garden
-1 Yavimaya, Cradle of Growth
+1 Fortified Village
 1 Boseiju, Who Endures
 1 Eiganjo, Seat of the Empire
 1 Windswept Heath

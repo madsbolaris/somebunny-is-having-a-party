@@ -124,7 +124,7 @@
 
 | Card | Deck | Scryfall | Rabbit? | Rabbit Art? | Party? | Theme | Justification |
 |------|------|----------|---------|-------------|--------|-------|---------------|
-| Cavern of Souls | Both | [🔗](https://scryfall.com/card/lci/269/cavern-of-souls) | ❌ | ❌ | ✅ | 6 | The underground venue. Name "Rabbit" and every bunny that enters is uncounterable. The cavern protects the party from blue mages trying to shut it down. |
+| Minas Tirith | Both | [🔗](https://scryfall.com/card/ltr/256/minas-tirith) | ❌ | ❌ | ✅ | 6 | The grand citadel where the biggest gathering in Middle-earth happens. Enters untapped with Baylen out, taps for white, and draws a card every combat — attack with two creatures (always) and the stories start flowing. The white city's beacon fires are basically party invitations. |
 | Savannah | Both | [🔗](https://scryfall.com/card/3ed/285/savannah) | ❌ | ❌ | ❌ | 3 | The open grassland where rabbits naturally gather. Dual land, no drama, just green and white mana flowing like punch at the bowl. |
 | Brushland | Both | [🔗](https://scryfall.com/card/ltc/297/brushland) | ❌ | ❌ | ❌ | 3 | The brush-covered field where the early arrivals set up camp. Costs 1 life per colored mana — the price of showing up first. |
 | Plateau | Both | [🔗](https://scryfall.com/card/3ed/284/plateau) | ❌ | ❌ | ❌ | 3 | The high ground with a view of the whole party. Red-white dual, flat and reliable. A good vantage point for Warren Warleader. |
@@ -137,7 +137,7 @@
 | Sunpetal Grove | Both | [🔗](https://scryfall.com/card/tdc/399/sunpetal-grove) | ❌ | ❌ | ✅ | 4 | The sunlit garden where the daytime party happens. Green-white checkland that's almost always untapped with your shock/dual-heavy mana base. |
 | Reflecting Pool | Both | [🔗](https://scryfall.com/card/clb/358/reflecting-pool) | ❌ | ❌ | ✅ | 4 | The ornamental reflecting pool in the party garden. Mirrors whatever mana your other lands produce — flexible, pretty, and exactly the kind of thing a well-planned party venue has. |
 | Temple Garden | Both | [🔗](https://scryfall.com/card/ecl/268/temple-garden) | ❌ | ❌ | ✅ | 5 | The garden venue. Pay 2 life to arrive on time (untapped) or come fashionably late (tapped). Fetchable by every green tutor in the deck. The temple garden is where outdoor parties belong. |
-| Yavimaya, Cradle of Growth | Both | [🔗](https://scryfall.com/card/mh2/261/yavimaya-cradle-of-growth) | ❌ | ❌ | ❌ | 3 | The ancient root network that connects every venue. Makes all lands Forests — Three Visits and Nature's Lore can now fetch anything. The party's infrastructure, hidden underground. |
+| Fortified Village | Both | [🔗](https://scryfall.com/card/ltc/311/fortified-village) | ❌ | ❌ | ✅ | 6 | The fortified village where the rabbits built their warren. Lanterns on every post, tables in the square, and the gates open for anyone holding a Forest or Plains — which is basically everybody. G/W mana, almost always untapped. |
 | Boseiju, Who Endures | Both | [🔗](https://scryfall.com/card/neo/266/boseiju-who-endures) | ❌ | ❌ | ❌ | 2 | The ancient tree that channels destruction on the party crasher's artifacts and enchantments. Uncounterable because it's a channel ability. Silent, patient, devastating. |
 | Eiganjo, Seat of the Empire | Both | [🔗](https://scryfall.com/card/neo/268/eiganjo-seat-of-the-empire) | ❌ | ❌ | ❌ | 2 | The imperial guard post. Channels to deal damage to an attacking or blocking creature. Keeps the riffraff away from the party. |
 | Windswept Heath | Both | [🔗](https://scryfall.com/card/ktk/248/windswept-heath) | ❌ | ❌ | ❌ | 2 | The wind-blown meadow. Fetches Forest or Plains — runs to grab Savannah, Temple Garden, or Taiga. Pure logistics. |
@@ -175,16 +175,16 @@
 | Sorceries | 9 | 5.7 | 0 | 3 | 6 | 7 | 1 | 1 |
 | Artifacts | 12 | 4.4 | 0 | 2 | 9 | 8 | 2 | 2 |
 | Enchantments | 11 | 4.8 | 0 | 1 | 8 | 9 | 0 | 2 |
-| Lands | 38 | 3.4 | 0 | 0 | 17 | 27 | 6 | 5 |
-| **Total** | **101** | **4.8** | **10** | **20** | **65** | **77** | **12** | **12** |
+| Lands | 38 | 3.4 | 0 | 0 | 18 | 27 | 6 | 5 |
+| **Total** | **101** | **4.8** | **10** | **20** | **66** | **77** | **12** | **12** |
 
 ### Key Takeaways
 
 - **10 of 101 unique cards are Rabbits** by creature type — the tribal core is tight and focused.
 - **20 cards feature rabbit art** — almost all Bloomburrow (BLB) originals.
-- **65 of 101 cards have a party connection** — over half the deck tells the "Somebunny is Having a Party" story through name, flavor, or function.
+- **66 of 101 cards have a party connection** — over half the deck tells the "Somebunny is Having a Party" story through name, flavor, or function.
 - **77 cards are shared** between B3 and B4 — the core identity is the same across both brackets.
 - **12 cards are unique to each variant** — B4 gains power (Mox Diamond, Teferi's Protection, Survival of the Fittest) while B3 keeps budget-friendly alternatives (Talismans, Flawless Maneuver, Druid of the Spade).
 - **Highest theme density**: Creatures (avg 7.9) and Sorceries (avg 5.7) — the rabbits and their party activities carry the theme.
-- **Lowest theme density**: Lands (avg 3.4) — necessary mana infrastructure, but The Shire, Windbrisk Heights, Nykthos, and Cavern of Souls are standout thematic lands.
+- **Lowest theme density**: Lands (avg 3.4) — necessary mana infrastructure, but The Shire, Windbrisk Heights, Minas Tirith, Nykthos, and Fortified Village are standout thematic lands.
 - **Pure power cards with minimal theme**: Sol Ring, Chrome Mox, Skullclamp, Sylvan Library, Survival of the Fittest, Enlightened Tutor — these are here because they win games, not because they're invited to the party.

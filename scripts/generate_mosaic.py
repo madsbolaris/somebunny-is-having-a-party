@@ -67,9 +67,9 @@ ORDERED_NAMES_B4 = [
     "Coat of Arms", "Sol Ring", "Arcane Signet",
     "Chrome Mox", "Skullclamp",
     *["Hare Apparent"] * 3,
-    # Row 7: Hare Apparent continued + Cavern
+    # Row 7: Hare Apparent continued
     *["Hare Apparent"] * 9,
-    "Cavern of Souls",
+    "Minas Tirith",
     # Row 8: Modern lands — shocks + checklands + utility
     "Temple Garden", "Sacred Foundry", "Stomping Ground",
     "Bountiful Promenade", "Sunpetal Grove", "Brushland",
@@ -81,7 +81,7 @@ ORDERED_NAMES_B4 = [
     "Verdant Catacombs", "Bloodstained Mire",
     "Reflecting Pool", "Exotic Orchard", "Command Tower",
     # Row 10: Channel lands + five-color + reserved list / old border
-    "Yavimaya, Cradle of Growth", "Boseiju, Who Endures",
+    "Fortified Village", "Boseiju, Who Endures",
     "Eiganjo, Seat of the Empire",
     "Mana Confluence", "City of Brass",
     "Ancient Tomb",
@@ -128,9 +128,9 @@ ORDERED_NAMES_B3 = [
     "Coat of Arms", "Sol Ring", "Arcane Signet",
     "Talisman of Unity", "Talisman of Impulse", "Skullclamp",
     *["Hare Apparent"] * 3,
-    # Row 7: Hare Apparent continued + Cavern
+    # Row 7: Hare Apparent continued
     *["Hare Apparent"] * 9,
-    "Cavern of Souls",
+    "Minas Tirith",
     # Row 8: Modern lands — shocks + checklands + utility
     "Temple Garden", "Sacred Foundry", "Stomping Ground",
     "Bountiful Promenade", "Sunpetal Grove", "Brushland",
@@ -142,7 +142,7 @@ ORDERED_NAMES_B3 = [
     "Wooded Bastion", "Jetmir's Garden",
     "Reflecting Pool", "Exotic Orchard", "Command Tower",
     # Row 10: Channel lands + five-color + duals
-    "Yavimaya, Cradle of Growth", "Boseiju, Who Endures",
+    "Fortified Village", "Boseiju, Who Endures",
     "Eiganjo, Seat of the Empire",
     "Mana Confluence", "City of Brass",
     "Gaea's Cradle",

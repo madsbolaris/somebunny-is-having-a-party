@@ -81,7 +81,7 @@ ORDERED_NAMES_B4 = [
     "Verdant Catacombs", "Plains",
     "Reflecting Pool", "Exotic Orchard", "Command Tower",
     # Row 10: Channel lands + five-color + reserved list / old border
-    "Fortified Village", "Boseiju, Who Endures",
+    "Horizon Canopy", "Boseiju, Who Endures",
     "Eiganjo, Seat of the Empire",
     "Mana Confluence", "City of Brass",
     "Ancient Tomb",

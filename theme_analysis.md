@@ -67,7 +67,7 @@
 
 ---
 
-## Sorceries (10)
+## Sorceries (9)
 
 | Card | Deck | Scryfall | Rabbit? | Rabbit Art? | Party? | Theme | Justification |
 |------|------|----------|---------|-------------|--------|-------|---------------|
@@ -75,7 +75,6 @@
 | For the Common Good | Both | [🔗](https://scryfall.com/card/blb/172/for-the-common-good) | ❌ | ✅ | ✅ | 9 | The toast of the evening. Everyone raises a glass and suddenly there are X copies of your best token — each one indestructible until your next turn. A community celebration that leaves everyone standing. |
 | Hop to It | Both | [🔗](https://scryfall.com/card/blb/16/hop-to-it) | ❌ | ✅ | ✅ | 9 | Three bunnies hop out of nowhere. The party just tripled. Simple, efficient, on-theme — three 1/1 Rabbit tokens for three mana. "Hop to it!" is what Baylen says when the appetizers run out. |
 | Shamanic Revelation | Both | [🔗](https://scryfall.com/card/c19/180/shamanic-revelation) | ❌ | ❌ | ✅ | 5 | The mystical intermission. Everyone gathers in a circle for wisdom — draw a card for each creature you control, gain 4 life if any has power 4+. The bigger the crowd, the deeper the revelation. |
-| Natural Order | Both | [🔗](https://scryfall.com/card/ema/177/natural-order) | ❌ | ❌ | ✅ | 5 | One guest takes a hit so the main act can make a grand entrance. Sacrifice a 1/1 rabbit at the feast, Craterhoof rises over the canopy, and suddenly every creature at the table is swinging for lethal. The natural order of every good party: small talk, then the headliner. |
 | Finale of Devastation | Both | [🔗](https://scryfall.com/card/cmm/289/finale-of-devastation) | ❌ | ❌ | ✅ | 6 | The grand finale — the moment Baylen stands up from the table, the canopy parts, and Craterhoof crashes through. Cast for X=10+ and everything gets +X/+X and haste. The party ends in devastation. For your opponents. |
 | Three Visits | Both | [🔗](https://scryfall.com/card/soc/289/three-visits) | ❌ | ❌ | ✅ | 4 | A few friends stop by the grove to pick up supplies before the main event. Fetches a Forest untapped — efficient prep work for the big night. |
 | Nature's Lore | Both | [🔗](https://scryfall.com/card/soc/278/natures-lore) | ❌ | ❌ | ❌ | 3 | Scouting the perfect party venue in the forest. Finds a Forest land and puts it into play untapped. Good logistics, no flavor. |
@@ -121,7 +120,7 @@
 
 ---
 
-## Lands (37)
+## Lands (38)
 
 | Card | Deck | Scryfall | Rabbit? | Rabbit Art? | Party? | Theme | Justification |
 |------|------|----------|---------|-------------|--------|-------|---------------|
@@ -132,7 +131,8 @@
 | Taiga | Both | [🔗](https://scryfall.com/card/3ed/287/taiga) | ❌ | ❌ | ❌ | 3 | The wild forest clearing. Red-green dual — this is where the bonfires burn after the main event. |
 | The Shire | Both | [🔗](https://scryfall.com/card/ltr/260/the-shire) | ❌ | ❌ | ✅ | 7 | The coziest venue on the guest list. Hobbit-holes and rabbit warrens share the same architectural philosophy — round doors, warm hearths, second breakfasts. The Shire IS a perpetual party. |
 | Gavony Township | Both | [🔗](https://scryfall.com/card/c20/276/gavony-township) | ❌ | ❌ | ✅ | 5 | The town square where everyone gathers to get pumped. Tap four mana and every creature gets a +1/+1 counter. The township rallies together — it's a community event. |
-| Castle Garenbrig | Both | [🔗](https://scryfall.com/card/eld/240/castle-garenbrig) | ❌ | ❌ | ❌ | 3 | The castle venue booked for the big green spells. Taps for six green mana toward creatures — overkill for most parties, but perfect for dropping Craterhoof. |
+| Windbrisk Heights | Both | [🔗](https://scryfall.com/card/lrw/281/windbrisk-heights) | ❌ | ❌ | ✅ | 7 | The secret room behind the bookcase where the real party happens. Attack with three creatures — trivially easy — and the hidden card plays for free. Sometimes it's Craterhoof. Sometimes it's Doubling Season. Either way, the surprise guest steals the show. |
+| Nykthos, Shrine to Nyx | Both | [🔗](https://scryfall.com/card/ths/223/nykthos-shrine-to-nyx) | ❌ | ❌ | ✅ | 6 | The shrine where the party pilgrims gather. Every white pip on every Hare Apparent, every Anointed Procession, every Cathars' Crusade adds to the devotion — the bigger the crowd, the more the shrine pulses with energy. Taps for 10+ mana when the celebration hits critical mass. |
 | Bountiful Promenade | Both | [🔗](https://scryfall.com/card/clb/348/bountiful-promenade) | ❌ | ❌ | ✅ | 6 | The tree-lined walkway to the party entrance. Enters untapped in multiplayer, produces green or white — the scenic route to the celebration. |
 | Sunpetal Grove | Both | [🔗](https://scryfall.com/card/tdc/399/sunpetal-grove) | ❌ | ❌ | ✅ | 4 | The sunlit garden where the daytime party happens. Green-white checkland that's almost always untapped with your shock/dual-heavy mana base. |
 | Reflecting Pool | Both | [🔗](https://scryfall.com/card/clb/358/reflecting-pool) | ❌ | ❌ | ✅ | 4 | The ornamental reflecting pool in the party garden. Mirrors whatever mana your other lands produce — flexible, pretty, and exactly the kind of thing a well-planned party venue has. |
@@ -170,21 +170,21 @@
 | Category | Total Cards | Avg Theme | Rabbits | Rabbit Art | Party | Both | B3 Only | B4 Only |
 |----------|-------------|-----------|---------|------------|-------|------|---------|---------|
 | Commander | 1 | 10.0 | 1 | 1 | 1 | 1 | 0 | 0 |
-| Creatures | 14 | 7.8 | 9 | 10 | 14 | 13 | 1 | 0 |
+| Creatures | 14 | 7.9 | 9 | 10 | 14 | 13 | 1 | 0 |
 | Instants | 16 | 4.6 | 0 | 3 | 10 | 12 | 2 | 2 |
-| Sorceries | 10 | 5.4 | 0 | 3 | 6 | 8 | 1 | 1 |
+| Sorceries | 9 | 5.7 | 0 | 3 | 6 | 7 | 1 | 1 |
 | Artifacts | 12 | 4.4 | 0 | 2 | 9 | 8 | 2 | 2 |
 | Enchantments | 11 | 4.8 | 0 | 1 | 8 | 9 | 0 | 2 |
-| Lands | 37 | 3.2 | 0 | 0 | 15 | 26 | 6 | 5 |
-| **Total** | **101** | **4.7** | **10** | **20** | **63** | **77** | **12** | **12** |
+| Lands | 38 | 3.4 | 0 | 0 | 17 | 27 | 6 | 5 |
+| **Total** | **101** | **4.8** | **10** | **20** | **65** | **77** | **12** | **12** |
 
 ### Key Takeaways
 
 - **10 of 101 unique cards are Rabbits** by creature type — the tribal core is tight and focused.
 - **20 cards feature rabbit art** — almost all Bloomburrow (BLB) originals.
-- **63 of 101 cards have a party connection** — over half the deck tells the "Somebunny is Having a Party" story through name, flavor, or function.
+- **65 of 101 cards have a party connection** — over half the deck tells the "Somebunny is Having a Party" story through name, flavor, or function.
 - **77 cards are shared** between B3 and B4 — the core identity is the same across both brackets.
 - **12 cards are unique to each variant** — B4 gains power (Mox Diamond, Teferi's Protection, Survival of the Fittest) while B3 keeps budget-friendly alternatives (Talismans, Flawless Maneuver, Druid of the Spade).
-- **Highest theme density**: Creatures (avg 7.8) and Sorceries (avg 5.4) — the rabbits and their party activities carry the theme.
-- **Lowest theme density**: Lands (avg 3.2) — necessary mana infrastructure, but The Shire, Jetmir's Garden, and Cavern of Souls are standout thematic lands.
+- **Highest theme density**: Creatures (avg 7.9) and Sorceries (avg 5.7) — the rabbits and their party activities carry the theme.
+- **Lowest theme density**: Lands (avg 3.4) — necessary mana infrastructure, but The Shire, Windbrisk Heights, Nykthos, and Cavern of Souls are standout thematic lands.
 - **Pure power cards with minimal theme**: Sol Ring, Chrome Mox, Skullclamp, Sylvan Library, Survival of the Fittest, Enlightened Tutor — these are here because they win games, not because they're invited to the party.

@@ -31,7 +31,6 @@
 1 Congregation at Dawn
 1 Three Visits
 1 Nature's Lore
-1 Natural Order
 1 Byrke, Long Ear of the Law
 1 Craterhoof Behemoth
 1 Finale of Devastation
@@ -68,7 +67,8 @@
 1 Taiga
 1 The Shire
 1 Gavony Township
-1 Castle Garenbrig
+1 Windbrisk Heights
+1 Nykthos, Shrine to Nyx
 1 Bountiful Promenade
 1 Sunpetal Grove
 1 Wooded Bastion

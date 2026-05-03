@@ -51,7 +51,7 @@ ORDERED_NAMES_B4 = [
     "Shamanic Revelation",
     # Row 4: Green sorceries + enchantments (bunny art first)
     "For the Common Good", "Second Harvest",
-    "Natural Order", "Finale of Devastation",
+    "Finale of Devastation",
     "Three Visits", "Nature's Lore", "Worldly Tutor",
     "Sylvan Library", "Parallel Lives",
     # Row 5: More green enchantments + multicolor (bunnies first)
@@ -73,7 +73,7 @@ ORDERED_NAMES_B4 = [
     # Row 8: Modern lands — shocks + checklands + utility
     "Temple Garden", "Sacred Foundry", "Stomping Ground",
     "Bountiful Promenade", "Sunpetal Grove", "Brushland",
-    "The Shire", "Castle Garenbrig", "Gavony Township",
+    "The Shire", "Windbrisk Heights", "Nykthos, Shrine to Nyx", "Gavony Township",
     "Wasteland",
     # Row 9: Fetches + mana-fixing lands
     "Windswept Heath", "Wooded Foothills", "Arid Mesa",
@@ -112,7 +112,7 @@ ORDERED_NAMES_B3 = [
     "Shamanic Revelation",
     # Row 4: Green sorceries + enchantments (bunny art first)
     "For the Common Good", "Second Harvest",
-    "Natural Order", "Finale of Devastation",
+    "Finale of Devastation",
     "Three Visits", "Nature's Lore", "Sylvan Tutor",
     "Sylvan Library", "Parallel Lives",
     # Row 5: More green enchantments + multicolor (bunnies first)
@@ -134,7 +134,7 @@ ORDERED_NAMES_B3 = [
     # Row 8: Modern lands — shocks + checklands + utility
     "Temple Garden", "Sacred Foundry", "Stomping Ground",
     "Bountiful Promenade", "Sunpetal Grove", "Brushland",
-    "The Shire", "Castle Garenbrig", "Gavony Township",
+    "The Shire", "Windbrisk Heights", "Nykthos, Shrine to Nyx", "Gavony Township",
     "Wasteland",
     # Row 9: Lands continued
     "Windswept Heath", "Wooded Foothills", "Arid Mesa",

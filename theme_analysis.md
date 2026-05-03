@@ -159,8 +159,8 @@
 | Horizon Canopy | B3 | [🔗](https://scryfall.com/card/ima/240/horizon-canopy) | ❌ | ❌ | ✅ | 3 | The treehouse canopy overlooking the party. Green-white mana at a life cost, and when you're done watching from above, sacrifice it to draw a card and join the fun. |
 | Wooded Bastion | B3 | [🔗](https://scryfall.com/card/exp/30/wooded-bastion) | ❌ | ❌ | ❌ | 2 | The old bastion hidden in the woods. Filters colorless into green or white pairs. A defensive outpost with no party energy — just utility. |
 | Inspiring Vantage | B3 | [🔗](https://scryfall.com/card/kld/246/inspiring-vantage) | ❌ | ❌ | ✅ | 3 | The balcony with a view of the celebration. Red-white fast land — untapped in the first three turns when the party's still getting started. The vantage point where you plan the evening. |
-| Forest | B3 | — | ❌ | ❌ | ❌ | 2 | The grove where the party supplies grow. A basic land — humble, fetchable, and always reliable. |
-| Plains | Both | — | ❌ | ❌ | ❌ | 2 | The open field where the tent goes up. A basic land — the blank canvas for the celebration. |
+| Forest | B3 | [🔗](https://scryfall.com/card/fdn/280/forest) | ❌ | ❌ | ❌ | 2 | The grove where the party supplies grow. A basic land — humble, fetchable, and always reliable. |
+| Plains | Both | [🔗](https://scryfall.com/card/blb/262/plains) | ❌ | ❌ | ❌ | 2 | The open field where the tent goes up. A basic land — the blank canvas for the celebration. |
 
 ---
 

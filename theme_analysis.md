@@ -133,8 +133,8 @@
 | Gavony Township | Both | [🔗](https://scryfall.com/card/c20/276/gavony-township) | ❌ | ❌ | ✅ | 5 | The town square where everyone gathers to get pumped. Tap four mana and every creature gets a +1/+1 counter. The township rallies together — it's a community event. |
 | Windbrisk Heights | Both | [🔗](https://scryfall.com/card/lrw/281/windbrisk-heights) | ❌ | ❌ | ✅ | 7 | The secret room behind the bookcase where the real party happens. Attack with three creatures — trivially easy — and the hidden card plays for free. Sometimes it's Craterhoof. Sometimes it's Doubling Season. Either way, the surprise guest steals the show. |
 | Nykthos, Shrine to Nyx | Both | [🔗](https://scryfall.com/card/ths/223/nykthos-shrine-to-nyx) | ❌ | ❌ | ✅ | 6 | The shrine where the party pilgrims gather. Every white pip on every Hare Apparent, every Anointed Procession, every Cathars' Crusade adds to the devotion — the bigger the crowd, the more the shrine pulses with energy. Taps for 10+ mana when the celebration hits critical mass. |
-| Bountiful Promenade | Both | [🔗](https://scryfall.com/card/clb/348/bountiful-promenade) | ❌ | ❌ | ✅ | 6 | The tree-lined walkway to the party entrance. Enters untapped in multiplayer, produces green or white — the scenic route to the celebration. |
-| Sunpetal Grove | Both | [🔗](https://scryfall.com/card/tdc/399/sunpetal-grove) | ❌ | ❌ | ✅ | 4 | The sunlit garden where the daytime party happens. Green-white checkland that's almost always untapped with your shock/dual-heavy mana base. |
+| Razorverge Thicket | Both | [🔗](https://scryfall.com/card/one/257/razorverge-thicket) | ❌ | ❌ | ❌ | 3 | The thicket at the edge of the meadow where the early arrivals show up. G/W fast land, always untapped in the first three turns when you're setting up the party. Rabbits live in thickets — close enough. |
+| Branchloft Pathway | Both | [🔗](https://scryfall.com/card/znr/258/branchloft-pathway-boulderloft-pathway) | ❌ | ❌ | ❌ | 4 | The woodland path that forks — left to the garden, right to the meadow. Always enters untapped, always the color you need. Follow the pathway to the party. |
 | Reflecting Pool | Both | [🔗](https://scryfall.com/card/clb/358/reflecting-pool) | ❌ | ❌ | ✅ | 4 | The ornamental reflecting pool in the party garden. Mirrors whatever mana your other lands produce — flexible, pretty, and exactly the kind of thing a well-planned party venue has. |
 | Temple Garden | Both | [🔗](https://scryfall.com/card/ecl/268/temple-garden) | ❌ | ❌ | ✅ | 5 | The garden venue. Pay 2 life to arrive on time (untapped) or come fashionably late (tapped). Fetchable by every green tutor in the deck. The temple garden is where outdoor parties belong. |
 | Fortified Village | Both | [🔗](https://scryfall.com/card/ltc/311/fortified-village) | ❌ | ❌ | ✅ | 6 | The fortified village where the rabbits built their warren. Lanterns on every post, tables in the square, and the gates open for anyone holding a Forest or Plains — which is basically everybody. G/W mana, almost always untapped. |
@@ -160,7 +160,18 @@
 | Wooded Bastion | B3 | [🔗](https://scryfall.com/card/exp/30/wooded-bastion) | ❌ | ❌ | ❌ | 2 | The old bastion hidden in the woods. Filters colorless into green or white pairs. A defensive outpost with no party energy — just utility. |
 | Inspiring Vantage | B3 | [🔗](https://scryfall.com/card/kld/246/inspiring-vantage) | ❌ | ❌ | ✅ | 3 | The balcony with a view of the celebration. Red-white fast land — untapped in the first three turns when the party's still getting started. The vantage point where you plan the evening. |
 | Forest | B3 | [🔗](https://scryfall.com/card/fdn/280/forest) | ❌ | ❌ | ❌ | 2 | The grove where the party supplies grow. A basic land — humble, fetchable, and always reliable. |
-| Plains | Both | [🔗](https://scryfall.com/card/blb/262/plains) | ❌ | ❌ | ❌ | 2 | The open field where the tent goes up. A basic land — the blank canvas for the celebration. |
+| Plains | Both | [🔗](https://scryfall.com/card/blb/369/plains) | ❌ | ❌ | ❌ | 2 | The open field where the tent goes up. A basic land — the blank canvas for the celebration. |
+
+---
+
+## Sideboard
+
+Cards swapped out for 1v1 play. Swap back in for pod games (3-4 players).
+
+| Card | Deck | Scryfall | Swaps For | Why Benched |
+|------|------|----------|-----------|-------------|
+| Bountiful Promenade | Both | [🔗](https://scryfall.com/card/clb/348/bountiful-promenade) | Razorverge Thicket | Always enters tapped in 1v1 (needs 2+ opponents). Excellent in pods. |
+| Sunpetal Grove | Both | [🔗](https://scryfall.com/card/tdc/399/sunpetal-grove) | Branchloft Pathway | Enters tapped too often in early turns. Pathway is always untapped. |
 
 ---
 

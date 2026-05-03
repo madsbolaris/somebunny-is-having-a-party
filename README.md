@@ -17,13 +17,13 @@ And then, just when everybunny is having the time of their life, [Finale of Deva
 
 The neighborhood party. Runs [Talismans](https://scryfall.com/card/who/254/talisman-of-unity) instead of Moxen, [Flawless Maneuver](https://scryfall.com/card/c20/26/flawless-maneuver) instead of Teferi's Protection, and keeps a Forest and a Plains in the back pocket. Same rabbits, same cake, slightly smaller venue.
 
-**Decklist**: [decklist_b3.txt](decklist_b3.txt)
+**Decklist**: [decklist_b3.dck](decklist_b3.dck)
 
 ### Bracket 4
 
 The gala. [Mox Diamond](https://scryfall.com/card/sth/138/mox-diamond) and [Chrome Mox](https://scryfall.com/card/2xm/240/chrome-mox) accelerate the setup, [Teferi's Protection](https://scryfall.com/card/2x2/32/teferis-protection) phases the whole celebration out of danger, and [Survival of the Fittest](https://scryfall.com/card/g09/4/survival-of-the-fittest) makes sure exactly the right guest walks through the door. Same party, higher budget.
 
-**Decklist**: [decklist_b4.txt](decklist_b4.txt)
+**Decklist**: [decklist_b4.dck](decklist_b4.dck)
 
 ![Deck Mosaic](deck_mosaic_b4_preview.jpg)
 
@@ -33,8 +33,8 @@ The gala. [Mox Diamond](https://scryfall.com/card/sth/138/mox-diamond) and [Chro
 
 | File | Description |
 |------|-------------|
-| [decklist_b3.txt](decklist_b3.txt) | Copy-ready Bracket 3 decklist |
-| [decklist_b4.txt](decklist_b4.txt) | Copy-ready Bracket 4 decklist |
+| [decklist_b3.dck](decklist_b3.dck) | Bracket 3 decklist (Forge format) |
+| [decklist_b4.dck](decklist_b4.dck) | Bracket 4 decklist (Forge format) |
 | [theme_analysis.md](theme_analysis.md) | Theme evaluation for every card in both variants |
 | [deck_mosaic_b4_preview.jpg](deck_mosaic_b4_preview.jpg) | Visual card mosaic (Bracket 4) |
 | [deck_mosaic_b3_preview.jpg](deck_mosaic_b3_preview.jpg) | Visual card mosaic (Bracket 3) |

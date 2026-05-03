@@ -72,7 +72,7 @@ ORDERED_NAMES_B4 = [
     "Minas Tirith",
     # Row 8: Modern lands — shocks + checklands + utility
     "Temple Garden", "Sacred Foundry", "Stomping Ground",
-    "Bountiful Promenade", "Sunpetal Grove", "Brushland",
+    "Razorverge Thicket", "Branchloft Pathway", "Brushland",
     "The Shire", "Windbrisk Heights", "Nykthos, Shrine to Nyx", "Gavony Township",
     "Wasteland",
     # Row 9: Fetches + mana-fixing lands
@@ -133,7 +133,7 @@ ORDERED_NAMES_B3 = [
     "Minas Tirith",
     # Row 8: Modern lands — shocks + checklands + utility
     "Temple Garden", "Sacred Foundry", "Stomping Ground",
-    "Bountiful Promenade", "Sunpetal Grove", "Brushland",
+    "Razorverge Thicket", "Branchloft Pathway", "Brushland",
     "The Shire", "Windbrisk Heights", "Nykthos, Shrine to Nyx", "Gavony Township",
     "Wasteland",
     # Row 9: Lands continued
@@ -164,6 +164,10 @@ def extract_scryfall_urls(theme_file: Path, variant: str) -> list[tuple[str, str
     Filters to cards matching the given variant: includes 'Both' + the variant-specific cards.
     """
     content = theme_file.read_text()
+    # Strip everything from ## Sideboard onward so bench cards don't appear in mosaics
+    sideboard_idx = content.find("## Sideboard")
+    if sideboard_idx != -1:
+        content = content[:sideboard_idx]
     # Match table rows: | Card Name | Deck | [🔗](url) | Rabbit? | Rabbit Art? | ...
     pattern = re.compile(
         r'\|\s*([^|]+?)\s*\|\s*(\w+)\s*\|\s*\[🔗\]\((https://scryfall\.com/card/[^)]+)\)\s*\|\s*([^|]+?)\s*\|\s*([^|]+?)\s*\|'

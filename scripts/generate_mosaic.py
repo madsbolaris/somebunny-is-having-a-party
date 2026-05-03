@@ -35,17 +35,18 @@ ORDERED_NAMES_B4 = [
     # Row 1: White creatures (bunnies first) + white artifacts/enchantments
     "Warren Warleader", "Harvestrite Host", "Regal Bunnicorn",
     "Head of the Homestead", "Valley Questcaller",
-    "Byrke, Long Ear of the Law", "Mentor of the Meek",
-    "Caretaker's Talent", "Halo Fountain", "Tocasia's Welcome",
+    "Byrke, Long Ear of the Law", "Welcoming Vampire",
+    "Caretaker's Talent", "Beastmaster Ascension", "Tocasia's Welcome",
     # Row 2: White instants/sorceries/enchantments (bunny art first)
     "Swords to Plowshares", "Hop to It", "Season of the Burrow",
     "Generous Gift", "Grand Crescendo", "Path to Exile",
     "Teferi's Protection", "Unbreakable Formation",
     "Smothering Tithe", "Intangible Virtue",
     # Row 3: More white enchantments + green creatures (bunnies first)
-    "Anointed Procession", "Cathars' Crusade", "Enlightened Tutor",
+    "Anointed Procession", "Enlightened Tutor",
     "March of the Multitudes",
     "Craterhoof Behemoth", "Birds of Paradise",
+    "Druid of the Spade", "Jacked Rabbit",
     "Pawpatch Formation",
     "Chord of Calling", "Heroic Intervention",
     "Shamanic Revelation",
@@ -57,7 +58,7 @@ ORDERED_NAMES_B4 = [
     # Row 5: More green enchantments + multicolor (bunnies first)
     "Doubling Season", "The Great Henge",
     "Baylen, the Haymaker",
-    "Cadira, Caller of the Small", "Finneas, Ace Archer",
+    "Elvish Piper", "Hazardroot Herbalist", "Burrowguard Mentor",
     "Eladamri's Call", "Aura Shards",
     "Jetmir, Nexus of Revels",
     "Boros Charm",
@@ -68,7 +69,7 @@ ORDERED_NAMES_B4 = [
     "Chrome Mox", "Skullclamp",
     *["Hare Apparent"] * 3,
     # Row 7: Hare Apparent continued
-    *["Hare Apparent"] * 9,
+    *["Hare Apparent"] * 7,
     "Minas Tirith",
     # Row 8: Modern lands — shocks + checklands + utility
     "Temple Garden", "Sacred Foundry", "Stomping Ground",
@@ -95,8 +96,8 @@ ORDERED_NAMES_B3 = [
     # Row 1: White creatures (bunnies first) + white artifacts/enchantments
     "Warren Warleader", "Harvestrite Host", "Regal Bunnicorn",
     "Head of the Homestead", "Valley Questcaller",
-    "Byrke, Long Ear of the Law", "Druid of the Spade", "Mentor of the Meek",
-    "Caretaker's Talent", "Halo Fountain",
+    "Byrke, Long Ear of the Law", "Druid of the Spade", "Welcoming Vampire",
+    "Caretaker's Talent", "Beastmaster Ascension",
     # Row 2: White instants/sorceries/enchantments (bunny art first)
     "Tocasia's Welcome",
     "Swords to Plowshares", "Hop to It", "Season of the Burrow",
@@ -104,9 +105,10 @@ ORDERED_NAMES_B3 = [
     "Flawless Maneuver", "Unbreakable Formation",
     "Intangible Virtue",
     # Row 3: More white enchantments + green creatures (bunnies first)
-    "Anointed Procession", "Cathars' Crusade", "Congregation at Dawn",
+    "Anointed Procession", "Congregation at Dawn",
     "March of the Multitudes",
     "Craterhoof Behemoth", "Birds of Paradise",
+    "Jacked Rabbit", "Pawpatch Recruit",
     "Pawpatch Formation",
     "Chord of Calling", "Heroic Intervention",
     "Shamanic Revelation",
@@ -118,7 +120,7 @@ ORDERED_NAMES_B3 = [
     # Row 5: More green enchantments + multicolor (bunnies first)
     "Doubling Season", "The Great Henge",
     "Baylen, the Haymaker",
-    "Cadira, Caller of the Small", "Finneas, Ace Archer",
+    "Elvish Piper", "Hazardroot Herbalist", "Burrowguard Mentor",
     "Eladamri's Call", "Aura Shards",
     "Jetmir, Nexus of Revels",
     "Boros Charm",
@@ -129,7 +131,7 @@ ORDERED_NAMES_B3 = [
     "Talisman of Unity", "Talisman of Impulse", "Skullclamp",
     *["Hare Apparent"] * 3,
     # Row 7: Hare Apparent continued
-    *["Hare Apparent"] * 9,
+    *["Hare Apparent"] * 7,
     "Minas Tirith",
     # Row 8: Modern lands — shocks + checklands + utility
     "Temple Garden", "Sacred Foundry", "Stomping Ground",

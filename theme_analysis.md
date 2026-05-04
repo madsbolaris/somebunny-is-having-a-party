@@ -23,7 +23,7 @@
 
 ---
 
-## Creatures (17 unique — 27 cards with 10× Hare Apparent)
+## Creatures (18 unique — 28 cards with 10× Hare Apparent)
 
 | Card | Deck | Scryfall | Rabbit? | Rabbit Art? | Party? | Theme | Justification |
 |------|------|----------|---------|-------------|--------|-------|---------------|
@@ -44,6 +44,7 @@
 | Hazardroot Herbalist | Both | [🔗](https://scryfall.com/card/blb/174/hazardroot-herbalist) | ✅ | ✅ | ✅ | 8 | The rabbit apothecary who always has the right remedy. Shows up and immediately throws a protective charm on Baylen — hexproof until your next turn. The party's designated healer, making sure the host stays standing no matter what gets thrown at him. |
 | Burrowguard Mentor | Both | [🔗](https://scryfall.com/card/blb/206/burrowguard-mentor) | ✅ | ✅ | ✅ | 8 | The veteran rabbit who trains the new recruits. Attacks alongside smaller creatures and grows from the experience, then creates a rabbit token to join the cause. The mentor who leads by example and keeps the ranks filled. |
 | Pawpatch Recruit | B3 | [🔗](https://scryfall.com/card/blb/187/pawpatch-recruit) | ✅ | ✅ | ✅ | 7 | The eager volunteer who showed up first to help set up. One green mana, a 1/2 with vigilance — blocks early, stays available for Baylen's tap abilities, and never misses a shift. The party's reliable first responder. |
+| Pollen-Shield Hare | Both | [🔗](https://scryfall.com/card/woe/233/pollen-shield-hare-hare-raising) | ✅ | ✅ | ✅ | 9 | The rabbit in the shimmering coat who makes every other token look better just by standing next to them. A permanent +1/+0 to all creature tokens, and when the party needs one last push, the Adventure side pumps the whole crowd +1/+1 for a combat swing. The best-dressed guest at the table. |
 
 ---
 
@@ -70,14 +71,13 @@
 
 ---
 
-## Sorceries (9)
+## Sorceries (8)
 
 | Card | Deck | Scryfall | Rabbit? | Rabbit Art? | Party? | Theme | Justification |
 |------|------|----------|---------|-------------|--------|-------|---------------|
 | Season of the Burrow | Both | [🔗](https://scryfall.com/card/blb/29/season-of-the-burrow) | ❌ | ✅ | ✅ | 9 | The official party season. The burrow opens its doors and the celebrations begin — five modes worth of rabbit festivities: make a token, exile a threat, return a guest from the grave. The season demands revelry. |
 | For the Common Good | Both | [🔗](https://scryfall.com/card/blb/172/for-the-common-good) | ❌ | ✅ | ✅ | 9 | The toast of the evening. Everyone raises a glass and suddenly there are X copies of your best token — each one indestructible until your next turn. A community celebration that leaves everyone standing. |
 | Hop to It | Both | [🔗](https://scryfall.com/card/blb/16/hop-to-it) | ❌ | ✅ | ✅ | 9 | Three bunnies hop out of nowhere. The party just tripled. Simple, efficient, on-theme — three 1/1 Rabbit tokens for three mana. "Hop to it!" is what Baylen says when the appetizers run out. |
-| Shamanic Revelation | Both | [🔗](https://scryfall.com/card/c19/180/shamanic-revelation) | ❌ | ❌ | ✅ | 5 | The mystical intermission. Everyone gathers in a circle for wisdom — draw a card for each creature you control, gain 4 life if any has power 4+. The bigger the crowd, the deeper the revelation. |
 | Finale of Devastation | Both | [🔗](https://scryfall.com/card/cmm/289/finale-of-devastation) | ❌ | ❌ | ✅ | 6 | The grand finale — the moment Baylen stands up from the table, the canopy parts, and Craterhoof crashes through. Cast for X=10+ and everything gets +X/+X and haste. The party ends in devastation. For your opponents. |
 | Three Visits | Both | [🔗](https://scryfall.com/card/soc/289/three-visits) | ❌ | ❌ | ✅ | 4 | A few friends stop by the grove to pick up supplies before the main event. Fetches a Forest untapped — efficient prep work for the big night. |
 | Nature's Lore | Both | [🔗](https://scryfall.com/card/soc/278/natures-lore) | ❌ | ❌ | ❌ | 3 | Scouting the perfect party venue in the forest. Finds a Forest land and puts it into play untapped. Good logistics, no flavor. |
@@ -181,6 +181,7 @@ Cards swapped out for 1v1 play. Swap back in for pod games (3-4 players).
 | Finneas, Ace Archer | Both | [🔗](https://scryfall.com/card/blb/212/finneas-ace-archer) | Welcoming Vampire | Too fragile, too slow to build counters, dies to everything. |
 | Cathars' Crusade | Both | [🔗](https://scryfall.com/card/inr/17/cathars-crusade) | Druid of the Spade (B4) / Pawpatch Recruit (B3) | Too expensive at 5 mana — by then you have other ways to win. |
 | Mentor of the Meek | Both | [🔗](https://scryfall.com/card/inr/34/mentor-of-the-meek) | Jacked Rabbit | Redundant with Welcoming Vampire, no blocking presence. |
+| Shamanic Revelation | Both | [🔗](https://scryfall.com/card/c19/180/shamanic-revelation) | Pollen-Shield Hare | Too expensive, need cards early not late. Draw covered by Welcoming Vampire + Tocasia's Welcome. |
 
 ---
 

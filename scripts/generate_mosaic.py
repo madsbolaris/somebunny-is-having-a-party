@@ -49,7 +49,7 @@ ORDERED_NAMES_B4 = [
     "Druid of the Spade", "Jacked Rabbit",
     "Pawpatch Formation",
     "Chord of Calling", "Heroic Intervention",
-    "Shamanic Revelation",
+    "Pollen-Shield Hare",
     # Row 4: Green sorceries + enchantments (bunny art first)
     "For the Common Good", "Second Harvest",
     "Finale of Devastation",
@@ -111,7 +111,7 @@ ORDERED_NAMES_B3 = [
     "Jacked Rabbit", "Pawpatch Recruit",
     "Pawpatch Formation",
     "Chord of Calling", "Heroic Intervention",
-    "Shamanic Revelation",
+    "Pollen-Shield Hare",
     # Row 4: Green sorceries + enchantments (bunny art first)
     "For the Common Good", "Second Harvest",
     "Finale of Devastation",

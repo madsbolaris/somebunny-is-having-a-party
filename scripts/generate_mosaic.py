@@ -54,14 +54,14 @@ ORDERED_NAMES_B4 = [
     "For the Common Good", "Second Harvest",
     "Finale of Devastation",
     "Three Visits", "Nature's Lore", "Worldly Tutor",
-    "Sylvan Library", "Parallel Lives",
+    "Sylvan Library", "Parallel Lives", "Natural Order",
     # Row 5: More green enchantments + multicolor (bunnies first)
     "Doubling Season", "The Great Henge",
     "Baylen, the Haymaker",
-    "Elvish Piper", "Hazardroot Herbalist", "Burrowguard Mentor",
+    "Green Sun's Zenith", "Hazardroot Herbalist",
     "Eladamri's Call", "Aura Shards",
     "Jetmir, Nexus of Revels",
-    "Boros Charm",
+    "Akroma's Will",
     "Carrot Cake",
     # Row 6: Colorless artifacts continued
     "Swiftfoot Boots",
@@ -73,11 +73,11 @@ ORDERED_NAMES_B4 = [
     "Minas Tirith",
     # Row 8: Modern lands — shocks + checklands + utility
     "Temple Garden", "Sacred Foundry", "Stomping Ground",
-    "Razorverge Thicket", "Branchloft Pathway", "Brushland",
+    "Razorverge Thicket", "Cavern of Souls", "Brushland",
     "The Shire", "Windbrisk Heights", "Nykthos, Shrine to Nyx", "Gavony Township",
     "Wasteland",
     # Row 9: Fetches + mana-fixing lands
-    "Windswept Heath", "Wooded Foothills", "Arid Mesa",
+    "Windswept Heath", "Wooded Foothills", "Crop Rotation",
     "Misty Rainforest", "Flooded Strand",
     "Verdant Catacombs", "Plains",
     "Reflecting Pool", "Exotic Orchard", "Command Tower",

@@ -25,8 +25,6 @@ The gala. [Mox Diamond](https://scryfall.com/card/sth/138/mox-diamond) and [Chro
 
 **Decklist**: [decklist_b4.dck](decklist_b4.dck)
 
-Latest optimization pass tightens the high-power plan: faster mana conversion with [Earthcraft](https://scryfall.com/card/tmp/222/earthcraft) and [Cryptolith Rite](https://scryfall.com/card/soi/200/cryptolith-rite), improved interaction with [Deflecting Swat](https://scryfall.com/card/c20/50/deflecting-swat), stronger consistency via [Ranger-Captain of Eos](https://scryfall.com/card/mh1/21/ranger-captain-of-eos), and a cleaner finisher line with [Natural Order](https://scryfall.com/card/ema/171/natural-order).
-
 ![Deck Mosaic](deck_mosaic_b4_preview.jpg)
 
 ---

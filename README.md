@@ -40,3 +40,4 @@ The gala. [Mox Diamond](https://scryfall.com/card/sth/138/mox-diamond) and [Chro
 | [deck_mosaic_b3_preview.jpg](deck_mosaic_b3_preview.jpg) | Visual card mosaic (Bracket 3) |
 | [scripts/](scripts/) | Mosaic generation script |
 | [card_images/](card_images/) | Cached card images from Scryfall |
+| [.github/workflows/update-mosaics.yml](.github/workflows/update-mosaics.yml) | Automatically regenerates and commits deck images on card changes |

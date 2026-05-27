@@ -21,14 +21,24 @@ from pathlib import Path
 from PIL import Image
 
 REPO_DIR = Path(__file__).parent.parent
-THEME_FILE = REPO_DIR / "THEME_ANALYSIS.md"
 CACHE_DIR = REPO_DIR / "card_images"
+
+for theme_name in ("theme_analysis.md", "THEME_ANALYSIS.md"):
+    candidate = REPO_DIR / theme_name
+    if candidate.exists():
+        THEME_FILE = candidate
+        break
+else:
+    raise FileNotFoundError(
+        "Could not find theme analysis file. Expected theme_analysis.md or THEME_ANALYSIS.md."
+    )
 
 # Scryfall asks for 50-100ms between requests
 DELAY_BETWEEN_REQUESTS = 0.15  # 150ms to be safe
 
 CARD_WIDTH = 488   # Scryfall "normal" size
 CARD_HEIGHT = 680
+PREVIEW_WIDTH = 1200
 
 # Layout order for B4 mosaic — sorted by color group, bunny cards first
 ORDERED_NAMES_B4 = [
@@ -275,9 +285,18 @@ def create_mosaic(image_paths: list[Path], output: Path, cols: int = 10):
     return mosaic_w, mosaic_h, rows, cols
 
 
+def create_preview(mosaic_path: Path, preview_path: Path):
+    """Create a web-friendly preview image from the full-resolution mosaic."""
+    with Image.open(mosaic_path) as mosaic:
+        preview_height = round(mosaic.height * (PREVIEW_WIDTH / mosaic.width))
+        preview = mosaic.resize((PREVIEW_WIDTH, preview_height), Image.LANCZOS)
+        preview.save(preview_path, "JPEG", quality=88, optimize=True)
+
+
 def generate_variant(variant: str):
     """Generate a mosaic for a single variant (b3 or b4)."""
     output_file = REPO_DIR / f"deck_mosaic_{variant}.png"
+    preview_file = REPO_DIR / f"deck_mosaic_{variant}_preview.jpg"
     
     print(f"\n{'='*60}")
     print(f"Generating {variant.upper()} mosaic...")
@@ -327,8 +346,10 @@ def generate_variant(variant: str):
     
     print(f"\nAssembling mosaic from {len(image_paths)} images...")
     w, h, rows, cols = create_mosaic(image_paths, output_file, cols=10)
+    create_preview(output_file, preview_file)
     print(f"Done! {variant.upper()} mosaic: {w}x{h} ({cols} cols × {rows} rows)")
     print(f"Saved to: {output_file}")
+    print(f"Saved preview to: {preview_file}")
 
 
 def main():

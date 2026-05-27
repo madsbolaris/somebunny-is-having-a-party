@@ -6,7 +6,7 @@ Deck Type=Commander
 [main]
 10 Hare Apparent|FDN
 1 Warren Warleader|BLB
-1 Elvish Piper|LTC
+1 Ranger-Captain of Eos|MH1
 1 Harvestrite Host|BLB
 1 Regal Bunnicorn|WOE
 1 Welcoming Vampire|VOW
@@ -14,9 +14,9 @@ Deck Type=Commander
 1 Coat of Arms|DDS
 1 Birds of Paradise|RVR
 1 Jacked Rabbit|BLC
-1 Druid of the Spade|BLB
-1 Hazardroot Herbalist|BLB
-1 Burrowguard Mentor|BLB
+1 Cryptolith Rite|SOI
+1 Esper Sentinel|MH2
+1 Earthcraft|TMP
 1 Generous Gift|LCC
 1 Grand Crescendo|TDC
 1 Chord of Calling|RVR
@@ -25,12 +25,12 @@ Deck Type=Commander
 1 Path to Exile|SOC
 1 Swords to Plowshares|BLC
 1 Teferi's Protection|2X2
-1 Unbreakable Formation|LTC
+1 Deflecting Swat|C20
 1 Heroic Intervention|LTC
 1 Boros Charm|FDN
 1 Pawpatch Formation|BLB
 1 Second Harvest|BLC
-1 For the Common Good|BLB
+1 Natural Order|EMA
 1 Hop to It|BLB
 1 Enlightened Tutor|DMR
 1 Worldly Tutor|DMR
@@ -86,7 +86,7 @@ Deck Type=Commander
 1 Stomping Ground|EOE
 1 Verdant Catacombs|MH2
 1 Plains|BLB|[369]
-1 Wasteland|EMA
+1 Forest|FDN|[280]
 1 Exotic Orchard|ECC
 1 Command Tower|ECC
 1 Mana Confluence|EA2

@@ -29,7 +29,7 @@
 |------|------|----------|---------|-------------|--------|-------|---------------|
 | Hare Apparent ×12 | Both | [🔗](https://scryfall.com/card/fdn/15/hare-apparent) | ✅ | ✅ | ✅ | 10 | The twelve identical guests who all brought the same dish to the potluck. Alone they're small, but together each one grows stronger for every other Hare in the room. The party wouldn't exist without them. |
 | Warren Warleader | Both | [🔗](https://scryfall.com/card/blb/38/warren-warleader) | ✅ | ✅ | ✅ | 9 | The bouncer who's also the life of the party. Every time she swings, two more bunnies hop through the door and the whole crew gets pumped. Nobody causes trouble on her watch. |
-| Elvish Piper | B3 | [🔗](https://scryfall.com/card/ltc/239/elvish-piper) | ❌ | ❌ | ✅ | 5 | The backstage manager who sneaks the headliner in through the side door. Tap her and any creature in your hand walks onto the stage for free — Craterhoof, Jetmir, whoever's next on the setlist. |
+| Elvish Piper | Both | [🔗](https://scryfall.com/card/ltc/239/elvish-piper) | ❌ | ❌ | ✅ | 5 | The backstage manager who sneaks the headliner in through the side door. Tap her and any creature in your hand walks onto the stage for free — Craterhoof, Jetmir, whoever's next on the setlist. |
 | Harvestrite Host | Both | [🔗](https://scryfall.com/card/blb/15/harvestrite-host) | ✅ | ✅ | ✅ | 9 | Literally "the host." Every time a new rabbit arrives, someone gets pumped up, and the moment a second guest hops through the door this turn, she hands out a party favor (a card). Rabbits gathered around a harvest table loaded with food, lanterns glowing overhead. Peak celebration energy. |
 | Regal Bunnicorn | Both | [🔗](https://scryfall.com/card/woe/25/regal-bunnicorn) | ✅ | ✅ | ✅ | 9 | The fancy guest who shows up looking better every time someone else arrives. Power and toughness equal to your nonland permanents — at a party this size, she's enormous. |
 | Welcoming Vampire | Both | [🔗](https://scryfall.com/card/vow/287/welcoming-vampire) | ❌ | ❌ | ✅ | 7 | The gracious host at the door who greets every new face with a smile and a card. Whenever a creature with power 2 or less enters, she draws — and in a deck full of 1/1 rabbits, the welcome never ends. Flying lets her keep an eye on the whole party from above. |
@@ -42,7 +42,7 @@
 | Birds of Paradise | Both | [🔗](https://scryfall.com/card/rvr/133/birds-of-paradise) | ❌ | ❌ | ✅ | 4 | The exotic tropical birds perched around the venue as living decorations. They're colorful, they're beautiful, and they make the whole party feel lush — tapping for any color of mana like floral arrangements that somehow also pay the bills. |
 | Druid of the Spade | Both | [🔗](https://scryfall.com/card/blb/170/druid-of-the-spade) | ✅ | ✅ | ✅ | 8 | The gardener rabbit who dug up the party decorations and planted the centerpieces. Gets +2/+0 and trample when tokens are around — and they're always around. A Bloomburrow local who earned her invite. |
 | Hazardroot Herbalist | Both | [🔗](https://scryfall.com/card/blb/174/hazardroot-herbalist) | ✅ | ✅ | ✅ | 8 | The rabbit apothecary who always has the right remedy. Shows up and immediately throws a protective charm on Baylen — hexproof until your next turn. The party's designated healer, making sure the host stays standing no matter what gets thrown at him. |
-| Burrowguard Mentor | B3 | [🔗](https://scryfall.com/card/blb/206/burrowguard-mentor) | ✅ | ✅ | ✅ | 8 | The veteran rabbit who trains the new recruits. Attacks alongside smaller creatures and grows from the experience, then creates a rabbit token to join the cause. The mentor who leads by example and keeps the ranks filled. |
+| Burrowguard Mentor | Both | [🔗](https://scryfall.com/card/blb/206/burrowguard-mentor) | ✅ | ✅ | ✅ | 8 | The veteran rabbit who trains the new recruits. Attacks alongside smaller creatures and grows from the experience, then creates a rabbit token to join the cause. The mentor who leads by example and keeps the ranks filled. |
 | Pawpatch Recruit | B3 | [🔗](https://scryfall.com/card/blb/187/pawpatch-recruit) | ✅ | ✅ | ✅ | 7 | The eager volunteer who showed up first to help set up. One green mana, a 1/2 with vigilance — blocks early, stays available for Baylen's tap abilities, and never misses a shift. The party's reliable first responder. |
 | Pollen-Shield Hare | Both | [🔗](https://scryfall.com/card/woe/233/pollen-shield-hare-hare-raising) | ✅ | ✅ | ✅ | 9 | The rabbit in the shimmering coat who makes every other token look better just by standing next to them. A permanent +1/+0 to all creature tokens, and when the party needs one last push, the Adventure side pumps the whole crowd +1/+1 for a combat swing. The best-dressed guest at the table. |
 
@@ -61,11 +61,10 @@
 | Swords to Plowshares | Both | [🔗](https://scryfall.com/card/blc/109/swords-to-plowshares) | ❌ | ✅ | ❌ | 4 | The party's zero-tolerance policy, but the bouncer is a rabbit. Swords stuck in the ground like fence posts, a bunny turning weapons into garden tools. "The same muscles used to swing a sword can be used to feed a burrow." Even exile spells get the rabbit treatment in this deck. |
 | Unbreakable Formation | Both | [🔗](https://scryfall.com/card/ltc/179/unbreakable-formation) | ❌ | ❌ | ✅ | 5 | The group photo moment. Everyone strikes a pose, becomes indestructible, and gets a +1/+1 counter as a keepsake. Addendum on your turn makes the memory permanent. |
 | Heroic Intervention | Both | [🔗](https://scryfall.com/card/ltc/249/heroic-intervention) | ❌ | ❌ | ❌ | 3 | The moment someone tries to ruin the party and every guest stands their ground — hexproof and indestructible. Nobody's going home early. |
-| Boros Charm | B3 | [🔗](https://scryfall.com/card/fdn/721/boros-charm) | ❌ | ❌ | ❌ | 3 | The party's emergency backup plan. Three modes: double strike (the dance-off), indestructible (the bunker), or four damage to the face (the farewell punch). |
+| Boros Charm | Both | [🔗](https://scryfall.com/card/fdn/721/boros-charm) | ❌ | ❌ | ❌ | 3 | The party's emergency backup plan. Three modes: double strike (the dance-off), indestructible (the bunker), or four damage to the face (the farewell punch). |
 | Pawpatch Formation | Both | [🔗](https://scryfall.com/card/blb/186/pawpatch-formation) | ❌ | ✅ | ✅ | 7 | The neighborhood watch forms up when the party gets too loud. Handles fliers, destroys enchantments, or breaks open a snack (Food token) and draws a card. The rabbits of the pawpatch handle it all. |
 | Teferi's Protection | B4 | [🔗](https://scryfall.com/card/2x2/32/teferis-protection) | ❌ | ❌ | ✅ | 4 | Baylen phases the entire party into a pocket dimension. The music keeps playing, the cake is untouched, and when reality snaps back, nothing has changed. The ultimate "you can't ruin this for us." |
-| Akroma's Will | B4 | [🔗](https://scryfall.com/card/cmr/8/akromas-will) | ❌ | ❌ | ✅ | 6 | The moment every guest steps into the spotlight at once. Pick a mode and the whole crew gets flying + vigilance + double strike + lifelink, or protection from every other player — a one-card finisher with a wide board, or an unbreakable shield when someone tries to crash. Replaces Boros Charm's three narrow modes with two devastating ones. |
-| Crop Rotation | B4 | [🔗](https://scryfall.com/card/cmm/322/crop-rotation) | ❌ | ❌ | ✅ | 5 | The party host swaps venues mid-celebration. Sacrifice a Plains, get Gaea's Cradle. Sac a Forest, grab Nykthos for the devotion finale. Instant-speed land tutor — the party always ends up in the right place. |
+| Crop Rotation | B4 | [🔗](https://scryfall.com/card/cmm/322/crop-rotation) | ❌ | ❌ | ✅ | 7 | The party host swaps venues mid-celebration. Sacrifice a Plains, get Gaea's Cradle. Sac a Forest, grab Nykthos for the devotion finale. Instant-speed land tutor — the party always ends up in the right place. |
 | Enlightened Tutor | B4 | [🔗](https://scryfall.com/card/dmr/6/enlightened-tutor) | ❌ | ❌ | ❌ | 2 | The party planner who knows exactly where the best decorations (enchantments) and equipment (artifacts) are stored. Not flashy, but the party wouldn't run without her. |
 | Flawless Maneuver | B3 | [🔗](https://scryfall.com/card/c20/26/flawless-maneuver) | ❌ | ❌ | ✅ | 4 | The effortless sidestep when someone tries to crash the party. Free with your commander out — Baylen waves his paw and the whole crew dodges destruction. |
 | Congregation at Dawn | B3 | [🔗](https://scryfall.com/card/rav/198/congregation-at-dawn) | ❌ | ❌ | ✅ | 4 | Sending out three invitations at once. Search for three creatures and stack them on top — the next three guests are arriving in the exact right order. The party's lineup is set. |
@@ -84,8 +83,6 @@
 | Three Visits | Both | [🔗](https://scryfall.com/card/soc/289/three-visits) | ❌ | ❌ | ✅ | 4 | A few friends stop by the grove to pick up supplies before the main event. Fetches a Forest untapped — efficient prep work for the big night. |
 | Nature's Lore | Both | [🔗](https://scryfall.com/card/soc/278/natures-lore) | ❌ | ❌ | ❌ | 3 | Scouting the perfect party venue in the forest. Finds a Forest land and puts it into play untapped. Good logistics, no flavor. |
 | Worldly Tutor | B4 | [🔗](https://scryfall.com/card/dmr/185/worldly-tutor) | ❌ | ❌ | ❌ | 3 | The whisper network. Need Craterhoof? Cadira? Byrke? One green mana at instant speed and the exact creature you need is on top of the deck, ready to walk through the door next turn. The party planner's little black book. |
-| Natural Order | B4 | [🔗](https://scryfall.com/card/vma/188/natural-order) | ❌ | ❌ | ✅ | 7 | The natural order of the evening: the host calls in the headliner. Sacrifice any green guest — Birds of Paradise, Jacked Rabbit, a Hare token — and Craterhoof Behemoth crashes through the canopy on the spot. The four-mana "the party's over" button. |
-| Green Sun's Zenith | B4 | [🔗](https://scryfall.com/card/mm2/153/green-suns-zenith) | ❌ | ❌ | ✅ | 6 | High noon at the meadow party — the green sun hits its zenith and the right guest steps into the light. Tutors any green creature directly into play: Jacked Rabbit on turn one, Craterhoof for the finale, Byrke for the doubling, then shuffles back for an encore. |
 | Sylvan Tutor | B3 | [🔗](https://scryfall.com/card/j20/8/sylvan-tutor) | ❌ | ❌ | ❌ | 3 | The forest courier carrying a single invitation. One green mana, one creature moved to the top of the library. Same job as Worldly Tutor, but at sorcery speed — the mail carrier works during business hours only. |
 
 ---
@@ -195,33 +192,32 @@ Cards swapped out for 1v1 play. Swap back in for pod games (3-4 players).
 | Category | Total Cards | Avg Theme | Rabbits | Rabbit Art | Party | Both | B3 Only | B4 Only |
 |----------|-------------|-----------|---------|------------|-------|------|---------|---------|
 | Commander | 1 | 10.0 | 1 | 1 | 1 | 1 | 0 | 0 |
-| Creatures | 14 | 7.9 | 9 | 10 | 14 | 11 | 3 | 0 |
-| Instants | 18 | 4.7 | 0 | 3 | 11 | 11 | 3 | 4 |
-| Sorceries | 11 | 5.9 | 0 | 3 | 8 | 7 | 1 | 3 |
+| Creatures | 14 | 7.9 | 9 | 10 | 14 | 13 | 1 | 0 |
+| Instants | 16 | 4.6 | 0 | 3 | 10 | 12 | 2 | 2 |
+| Sorceries | 9 | 5.7 | 0 | 3 | 6 | 7 | 1 | 1 |
 | Artifacts | 12 | 4.4 | 0 | 2 | 9 | 8 | 2 | 2 |
 | Enchantments | 11 | 4.8 | 0 | 1 | 8 | 9 | 0 | 2 |
-| Lands | 38 | 3.6 | 0 | 0 | 19 | 26 | 7 | 5 |
-| **Total** | **105** | **4.8** | **10** | **20** | **70** | **73** | **16** | **16** |
+| Lands | 38 | 3.6 | 0 | 0 | 19 | 27 | 6 | 5 |
+| **Total** | **102** | **4.8** | **10** | **20** | **68** | **77** | **12** | **13** |
 
 ### Key Takeaways
 
 - **10 unique cards are Rabbits** by creature type — the tribal core is tight and focused.
 - **20 cards feature rabbit art** — almost all Bloomburrow (BLB) originals.
-- **~70% of cards have a party connection** — the deck tells the "Somebunny is Having a Party" story through name, flavor, or function.
-- **73 cards are shared** between B3 and B4 — the core identity is the same across both brackets.
-- **16 cards are unique to each variant** — B4 gains power (Mox Diamond, Teferi's Protection, Survival of the Fittest, Natural Order, Green Sun's Zenith, Akroma's Will, Cavern of Souls, Crop Rotation) while B3 keeps budget-friendly alternatives (Talismans, Flawless Maneuver, Elvish Piper, Boros Charm, Branchloft Pathway).
-- **Highest theme density**: Creatures (avg 7.9) and Sorceries (avg 5.9) — the rabbits and their party activities carry the theme.
+- **~67% of cards have a party connection** — the deck tells the "Somebunny is Having a Party" story through name, flavor, or function.
+- **77 cards are shared** between B3 and B4 — the core identity is the same across both brackets.
+- **B4 unique cards**: Mox Diamond, Teferi's Protection, Survival of the Fittest, Enlightened Tutor, Worldly Tutor, **Cavern of Souls**, **Crop Rotation**, plus a few B4-only fetches/lands. B3 keeps budget alternatives (Talismans, Flawless Maneuver, Congregation at Dawn, Sylvan Tutor, etc.).
+- **Highest theme density**: Creatures (avg 7.9) and Sorceries (avg 5.7) — the rabbits and their party activities carry the theme.
 - **Lowest theme density**: Lands (avg 3.6) — necessary mana infrastructure, but The Shire, Windbrisk Heights, Minas Tirith, Nykthos, Cavern of Souls, and Fortified Village are standout thematic lands.
 - **Pure power cards with minimal theme**: Sol Ring, Chrome Mox, Skullclamp, Sylvan Library, Survival of the Fittest, Enlightened Tutor — these are here because they win games, not because they're invited to the party.
 
 ### B4 Power Optimization (this PR)
 
-Five swaps that raise the Bracket 4 build closer to high-power without breaking the rabbit-party theme:
+Two surgical swaps that raise the Bracket 4 build's power without spending the theme budget. Three additional swaps were considered and reverted after a theme review (kept only swaps with theme score ≥ 7):
 
-| Out (now B3-only) | In (B4-only) | Why |
-|---|---|---|
-| Elvish Piper | **Natural Order** | 4-mana sorcery instead of a summon-sick 4-mana creature. Sacrifice any green guest (BoP, Jacked Rabbit, a Hare token) → Craterhoof on the spot. One-card kill. |
-| Burrowguard Mentor | **Green Sun's Zenith** | A 4-mana 2/2 lord becomes a scalable green creature tutor that puts the target directly into play — Jacked Rabbit on turn 1, Craterhoof for the finale, then shuffles back for an encore. |
-| Boros Charm | **Akroma's Will** | Replaces three narrow modes with two devastating ones: flying + vigilance + double strike + lifelink on a wide board (often lethal), or protection from each other player as Teferi's-lite. |
-| Branchloft Pathway | **Cavern of Souls** (Rabbit) | The weakest dual becomes counter-immunity for the entire tribal core, including the commander. |
-| Arid Mesa | **Crop Rotation** | Trims one fetch (we keep four others) for an instant-speed Gaea's Cradle / Nykthos / Wasteland tutor. |
+| Out (now B3-only) | In (B4-only) | Theme | Why |
+|---|---|---|---|
+| Branchloft Pathway | **Cavern of Souls** (Rabbit) | 8/10 | The weakest dual becomes counter-immunity for the entire tribal core, including the commander. Naming *Rabbit* makes the card literally about the tribe. |
+| Arid Mesa | **Crop Rotation** | 7/10 | Trims one fetch (we keep four others) for an instant-speed Gaea's Cradle / Nykthos / Wasteland / Windbrisk Heights tutor. "Harvest" / "Rotation" fits Bloomburrow flavor cleanly. |
+
+**Reverted (theme score < 7):** Natural Order (6), Green Sun's Zenith (5), Akroma's Will (3).

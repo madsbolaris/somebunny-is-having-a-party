@@ -54,14 +54,14 @@ ORDERED_NAMES_B4 = [
     "For the Common Good", "Second Harvest",
     "Finale of Devastation",
     "Three Visits", "Nature's Lore", "Worldly Tutor",
-    "Sylvan Library", "Parallel Lives", "Natural Order",
+    "Sylvan Library", "Parallel Lives",
     # Row 5: More green enchantments + multicolor (bunnies first)
     "Doubling Season", "The Great Henge",
     "Baylen, the Haymaker",
-    "Green Sun's Zenith", "Hazardroot Herbalist",
+    "Elvish Piper", "Hazardroot Herbalist", "Burrowguard Mentor",
     "Eladamri's Call", "Aura Shards",
     "Jetmir, Nexus of Revels",
-    "Akroma's Will",
+    "Boros Charm",
     "Carrot Cake",
     # Row 6: Colorless artifacts continued
     "Swiftfoot Boots",

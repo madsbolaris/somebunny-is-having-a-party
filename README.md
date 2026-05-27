@@ -21,7 +21,7 @@ The neighborhood party. Runs [Talismans](https://scryfall.com/card/who/254/talis
 
 ### Bracket 4
 
-The gala. [Mox Diamond](https://scryfall.com/card/sth/138/mox-diamond) and [Chrome Mox](https://scryfall.com/card/2xm/240/chrome-mox) accelerate the setup, [Natural Order](https://scryfall.com/card/vma/188/natural-order) and [Green Sun's Zenith](https://scryfall.com/card/mm2/153/green-suns-zenith) call the headliner straight onto the battlefield, [Cavern of Souls](https://scryfall.com/card/lci/269/cavern-of-souls) makes the rabbits uncounterable, [Akroma's Will](https://scryfall.com/card/cmr/8/akromas-will) and [Teferi's Protection](https://scryfall.com/card/2x2/32/teferis-protection) close the door on interaction, and [Survival of the Fittest](https://scryfall.com/card/g09/4/survival-of-the-fittest) makes sure exactly the right guest walks through it. Same party, higher budget.
+The gala. [Mox Diamond](https://scryfall.com/card/sth/138/mox-diamond) and [Chrome Mox](https://scryfall.com/card/2xm/240/chrome-mox) accelerate the setup, [Cavern of Souls](https://scryfall.com/card/lci/269/cavern-of-souls) makes the rabbits uncounterable, [Crop Rotation](https://scryfall.com/card/cmm/322/crop-rotation) swaps venues mid-party for [Gaea's Cradle](https://scryfall.com/card/usg/321/gaeas-cradle) or [Nykthos](https://scryfall.com/card/ths/223/nykthos-shrine-to-nyx), [Teferi's Protection](https://scryfall.com/card/2x2/32/teferis-protection) phases the whole celebration out of danger, and [Survival of the Fittest](https://scryfall.com/card/g09/4/survival-of-the-fittest) makes sure exactly the right guest walks through the door. Same party, higher budget.
 
 **Decklist**: [decklist_b4.dck](decklist_b4.dck)
 

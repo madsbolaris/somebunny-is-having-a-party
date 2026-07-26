@@ -1,0 +1,16 @@
+# Host manifest — read by scripts/generate_mosaic.py and the helper scripts.
+name = "Somebunny Brought the Whole Warren"
+host = "Baylen, the Haymaker"
+commander = "Baylen, the Haymaker"
+tagline = "Everybunny's invited. Not everybunny leaves."
+strategy = "Naya rabbit tribal — go wide with tokens, then flip the table with an overrun."
+brackets = ["b4"]
+
+[mosaic]
+# A card is "highlighted" (🐰 marker + sorts first within its color/type group) when
+# any of these theme_analysis columns contains a ✅ for that card.
+highlight_columns = ["Rabbit?", "Rabbit Art?"]
+# Cards forced to the end of their color section instead of sorting with their type.
+end_of_color = ["Hare Apparent"]
+# Cards pinned to the front of the mosaic (right after the commander), in this exact order.
+pinned = ["The Great Henge", "Halo Fountain", "Craterhoof Behemoth"]

@@ -22,7 +22,7 @@ Ramp · Fix · Enabler (makes everyone draw) · Payoff (turns draws/mill into a 
 
 ---
 
-## Mill payoffs — the wincon core (8)
+## Mill payoffs — the wincon core (10)
 
 > The deck wins by decking opponents out. These convert your (and the table's) heavy drawing into library loss.
 
@@ -32,8 +32,10 @@ Ramp · Fix · Enabler (makes everyone draw) · Payoff (turns draws/mill into a 
 | Sphinx's Tutelage | Payoff | 7 | Same trigger, single target, with a color-match chain that can run away. |
 | Teferi's Tutelage | Payoff | 6 | Third copy of the plan; two per draw, single target. |
 | Bruvac the Grandiloquent | Mult | 7 | Doubles **all** your mill — a true force-multiplier. Dead without another mill source, so it's a stacker not a standalone. |
+| Fraying Sanity | Mult | 6 | A curse on one opponent — every card they lose that turn, they lose *twice*, so a single Psychic Corrosion trigger empties their checkbook at double speed. A single-target Bruvac; stack the two and a rival is bankrupt in a turn. Dead without another mill source. |
 | Riverchurn Monument | Payoff / Removal | 6 | Repeatable one-sided mill 2 at will, plus an exhaust mode that sweeps their swollen graveyards. Never hits you. |
 | Maddening Cacophony | Payoff (burst) | 6 | Mill 8, or kicked to mill half each opponent's library. Big, one-shot spike. |
+| Traumatize | Payoff (burst) | 6 | Mills the target's whole top half at once — a huge one-shot spike, and with Bruvac or Fraying Sanity on them it decks them outright. Single-target and sorcery-speed, so it's a finisher, not an engine. |
 | Forced Fruition | Payoff | 6 | Opponent casts a spell → they draw seven (huge with Psychic Corrosion). But it also *digs them to answers/combo* — high-variance, double-edged. |
 | Windfall | Draw / Payoff | 6 | Refills your hand and triggers every "on draw" payoff at once; symmetric wheel. |
 
@@ -41,21 +43,19 @@ Ramp · Fix · Enabler (makes everyone draw) · Payoff (turns draws/mill into a 
 
 ---
 
-## Group-draw enablers — feed the payoffs & deck opponents (9)
+## Group-draw enablers — feed the payoffs & deck opponents (7)
 
 | Card | Role | Power | Note |
 |------|------|:-----:|------|
 | Teferi's Puzzle Box | Enabler | 7 | Every opponent redraws a whole fresh hand each turn — a torrent of forced draws, and with a mill payoff online each redraw shaves a stack off the top. One of the strongest "everyone draws" pieces you run. |
 | Font of Mythos | Enabler | 6 | Everyone draws **two** extra per turn — enormous mill fuel, but the fastest way to arm your opponents too. |
-| Rites of Flourishing | Enabler | 6 | Extra card *and* extra land for all — pushes everyone toward deck-out, and quietly hands you extra land drops. |
-| Horn of Greed | Enabler | 6 | Everyone draws when they play a land — and with your fetches, ramp, and land-drop enablers you trigger it far more than they do. |
-| Kwain, Itinerant Meddler | Enabler | 6 | Repeatable table-wide "may draw + gain life" on a cheap body. |
+| Generous Patron | Enabler / Draw | 5 | A flexible {2}{G} body: the ETB either pins two +1/+1 counters on an opponent's creature or throws the floor open for a table-wide draw, and its static draws you a card whenever you put counters on a creature you don't control. Group-hug on demand that can quietly flip into a private draw engine feeding the mill. |
 | Selvala, Explorer Returned | Enabler / Ramp | 6 | Parley draws the whole table and pays you mana + life per nonland flipped — group draw and ramp on one tap. |
 | Temple Bell | Enabler / Combo | 6 | Tap: everyone draws — and you control the timing. Also the untap target that goes infinite with Mind Over Matter. |
 | Wedding Ring | Enabler / Draw | 6 | You draw whenever a gifted opponent draws or gains life — a parity engine that feeds your mill (and half of a combo with Consecrated Sphinx). |
 | Jace, Wielder of Mysteries | Payoff / Insurance | 8 | Anti-deck-out static (draw from empty library = win) turns your own group-draw into a fail-safe; +1 mills an opponent **and** draws you a card, and the −8 is a self-mill win. |
 
-**Assessment:** the "group-hug" opening that makes you look harmless — and every extra draw is mill fuel (via your own draws) or a punisher trigger (Consecrated Sphinx, Trouble in Pairs). The tension: **Font of Mythos, Teferi's Puzzle Box, Rites of Flourishing, and Forced Fruition also dig your opponents toward answers or a combo.** Against a fast combo deck, your generosity can backfire — which is why the interaction suite below matters.
+**Assessment:** the "group-hug" opening that makes you look harmless — and every extra draw is mill fuel (via your own draws) or a punisher trigger (Consecrated Sphinx, Trouble in Pairs). The tension: **Font of Mythos, Teferi's Puzzle Box, and Forced Fruition also dig your opponents toward answers or a combo.** Against a fast combo deck, your generosity can backfire — which is why the interaction suite below matters.
 
 ---
 
@@ -93,9 +93,9 @@ Ramp · Fix · Enabler (makes everyone draw) · Payoff (turns draws/mill into a 
 | Exploration | Ramp (land drops) | 6 | One extra land drop every turn — empties a land-clogged hand into mana for Folio / Riverchurn and thins future draws. |
 | Tempt with Discovery | Ramp + Fix | 6 | Group-hug land tutor — grabs *any* land (Serra's Sanctum, Reliquary Tower) and ramps you per opponent who bites. |
 | Farseek | Fix / Ramp | 5 | Fetches a shock/dual to keep the three colors flowing. |
-| Open the Way | Ramp | 5 | Everyone digs lands to hand; you pull the biggest pile to fuel the engines. |
+| Growth Spiral | Ramp + Draw | 6 | Instant-speed draw a card *and* drop an extra land, keeping mana a step ahead of the engines — and that drawn card still fires the mill payoffs. Efficient ramp that never sits dead. |
 
-**Assessment:** ~9 accelerants for a curve that tops around 5–7 is **mana-heavy** (flood risk), but the mana sinks — Riverchurn, Folio, Kwain, Bumbleflower re-casts, Mind Over Matter, X-spells — soak the excess, and the land-drop enablers (Exploration, Burgeoning) turn flood into extra mana instead of dead cards.
+**Assessment:** ~9 accelerants for a curve that tops around 5–7 is **mana-heavy** (flood risk), but the mana sinks — Riverchurn, Folio, Bumbleflower re-casts, Mind Over Matter, X-spells — soak the excess, and the land-drop enablers (Exploration, Burgeoning) turn flood into extra mana instead of dead cards.
 
 ---
 
@@ -131,7 +131,7 @@ Ramp · Fix · Enabler (makes everyone draw) · Payoff (turns draws/mill into a 
 
 ---
 
-## Tutors, recursion & self-preservation (8)
+## Tutors, recursion & self-preservation (7)
 
 | Card | Role | Power | Note |
 |------|------|:-----:|------|
@@ -141,10 +141,9 @@ Ramp · Fix · Enabler (makes everyone draw) · Payoff (turns draws/mill into a 
 | Mystical Tutor | Tutor | 6 | Premium instant-speed tutor for any instant or sorcery — the second Approach, a Maddening Cacophony finisher, Cyclonic Rift, or a counter. Pairs with Enlightened toward a real premium tutor base. |
 | Replenish | Recur / Engine | 7 | Returns **every** enchantment from your graveyard to the battlefield at once — the direct answer to a Farewell/wrath, rebuilding Psychic Corrosion and both Tutelages in one card. Turns a board wipe into a speed bump. |
 | Hall of Heliod's Generosity | Recur / Land | 6 | A land that keeps buying back your best enchantment (Psychic Corrosion, a Tutelage, Sphere of Safety) from the graveyard, one per turn — grindy insurance that the engine never truly dies. |
-| Gaea's Blessing | Recur / Anti-deck | 6 | A graveyard-reshuffle alongside Elixir of Immortality — and it auto-triggers the same shuffle if it's ever milled. A reliable answer to self-decking. |
 | Elixir of Immortality | Recur / Anti-deck | 6 | Reusable graveyard-reshuffle that shuffles *itself* back in — activates for {1}, gains 5 life, and doesn't enter tapped. A repeatable anti-self-mill valve, not a one-shot. |
 
-**Assessment:** the tutor suite is now both deeper and broader — Enlightened + Idyllic find the artifact/enchantment engine, while **Long-Term Plans** (any card) and **Mystical Tutor** (any instant/sorcery) finally reach the win conditions and combo pieces the deck could never search for, directly addressing the lowest CRISPI stat (Consistency). **Replenish + Hall of Heliod's Generosity** give the enchantment core real resilience against wipes, and **two** graveyard-reshuffle effects (Elixir + Gaea's Blessing) answer the self-deck risk.
+**Assessment:** the tutor suite is now both deeper and broader — Enlightened + Idyllic find the artifact/enchantment engine, while **Long-Term Plans** (any card) and **Mystical Tutor** (any instant/sorcery) finally reach the win conditions and combo pieces the deck could never search for, directly addressing the lowest CRISPI stat (Consistency). **Replenish + Hall of Heliod's Generosity** give the enchantment core real resilience against wipes, and **Elixir of Immortality** answers the self-deck risk.
 
 ---
 
@@ -182,8 +181,8 @@ Three-color Bant fixing: **Command Tower / City of Brass** (any color), **Tundra
 - **Elite card advantage + consistency.** Rhystic, Consecrated Sphinx, Sylvan, Mangara, The One Ring, Folio + two enchantment tutors — you rarely run dry.
 
 ### Weaknesses / risks
-1. **You mill yourself too.** You draw *harder than anyone*, but two reshuffle outlets (Elixir + Gaea's Blessing, the latter auto-triggering on mill) de-risk it. Still the axis to watch.
-2. **Symmetric generosity arms opponents.** Font of Mythos, Teferi's Puzzle Box, Rites of Flourishing, and Forced Fruition dig opponents toward answers/combo — a genuine cost of the plan, now partly offset by the counter suite.
+1. **You mill yourself too.** You draw *harder than anyone*, but Elixir of Immortality reshuffles your graveyard to de-risk it. Still the axis to watch.
+2. **Symmetric generosity arms opponents.** Font of Mythos, Teferi's Puzzle Box, and Forced Fruition dig opponents toward answers/combo — a genuine cost of the plan, now partly offset by the counter suite.
 3. **Slow clock without the combo.** Mill is slow in a 4-player pod; you often need Bruvac + a payoff, or Mind Over Matter, online.
 4. **Over-ramped / flood-prone.** ~9 accelerants + 39 lands for a low-to-mid curve; mitigated by mana sinks, not eliminated.
 5. **Thin basics.** Just 5 basics behind 4 fetches — a Blood Moon or Back to Basics bites harder than the budget suggests.

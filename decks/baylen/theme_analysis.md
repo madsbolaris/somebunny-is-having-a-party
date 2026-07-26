@@ -177,3 +177,21 @@ A Bracket 4, ~100-card Naya rabbit-tribal token-combo deck.
 - The tribal core is tight and focused — a small set of true Rabbits that snowball into a board-flooding token swarm.
 - Highest theme density lives in the Creatures and Sorceries; the mana base is the lowest, as expected.
 - Pure-power, low-flavor inclusions (Sol Ring, Chrome Mox, Sylvan Library, Enlightened Tutor, Seedborn Muse) are here to win games, not because they were invited to the party.
+
+---
+
+## Bracket 3 Conversion Kit (sideboard)
+
+Swap every **Swap out** card for its paired **Swap in** to drop this Bracket 4 build to a **Bracket 3**-legal deck (**3 or fewer Game Changers**). It's a package swap — the pairings are only for reference; what matters is cutting all nine listed Game Changers and adding all nine sideboard cards. Kept Game Changers: **Gaea's Cradle, Seedborn Muse, Crop Rotation**. None of the swap-ins is a Game Changer. Trade-off: this removes Baylen's only board wipe (Farewell) and its repeatable artifact/enchantment hate (Aura Shards); spot removal (Chaos Warp, Generous Gift, Path to Exile, Swords to Plowshares, Beast Within) stays.
+
+| Swap in | Scryfall | Swap out | Note |
+|---------|----------|----------|------|
+| Jaheira, Friend of the Forest | [🔗](https://scryfall.com/card/clb/237/jaheira-friend-of-the-forest) | Smothering Tithe *(GC)* | Tokens tap for mana — replaces the Tithe's ramp/value. |
+| Circle of Dreams Druid | [🔗](https://scryfall.com/card/pafr/176s/circle-of-dreams-druid) | Survival of the Fittest *(GC)* | Mana per creature — go-wide ramp. |
+| Idyllic Tutor | [🔗](https://scryfall.com/card/thb/24/idyllic-tutor) | Enlightened Tutor *(GC)* | Enchantment tutor (Doubling Season, Cathars' Crusade). |
+| Sylvan Tutor | [🔗](https://scryfall.com/card/j20/8/sylvan-tutor) | Worldly Tutor *(GC)* | Same top-of-library creature tutor. |
+| Congregation at Dawn | [🔗](https://scryfall.com/card/rav/198/congregation-at-dawn) | Aura Shards *(GC)* | Stacks the top three creatures — finds the finisher. |
+| Sterling Grove | [🔗](https://scryfall.com/card/mh2/293/sterling-grove) | Farewell *(GC)* | Enchantment tutor + shroud for your enchantments. |
+| Mind Stone | [🔗](https://scryfall.com/card/clb/325/mind-stone) | Mox Diamond *(GC)* | Rock that cashes in for a card late. |
+| Wayfarer's Bauble | [🔗](https://scryfall.com/card/clb/344/wayfarers-bauble) | Chrome Mox *(GC)* | Ramp + fixing, no card disadvantage. |
+| Sungrass Prairie | [🔗](https://scryfall.com/card/msc/270/sungrass-prairie) | Ancient Tomb *(GC — land)* | Untapped G/W filter land. |

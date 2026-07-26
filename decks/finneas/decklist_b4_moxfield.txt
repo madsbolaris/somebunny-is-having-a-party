@@ -99,3 +99,16 @@ Commander
 
 Sideboard
 1 Bountiful Promenade (MSC) 226
+1 Sylvan Tutor (J20) 8
+1 Congregation at Dawn (RAV) 198
+1 Sterling Grove (MH2) 293
+1 Clever Concealment (ONC) 5
+1 Mind Stone (SOC) 352
+1 Wayfarer's Bauble (40K) 261★
+1 Burrowguard Mentor (BLB) 206
+1 Conclave Mentor (PLST) M21-216
+1 Good-Fortune Unicorn (FDN) 240
+1 Trelasarra, Moon Dancer (AFR) 236
+1 Castle Ardenvale (TDC) 346
+1 Krosan Verge (MKC) 271
+1 Sungrass Prairie (MSC) 270

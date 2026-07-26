@@ -202,3 +202,24 @@ Cards evaluated for the build but not currently maindecked — swap targets for 
 - **Repeatable mill artifacts close the deal.** Riverchurn Monument taps to mill any players two at a time (and never the host), and its exhaust mode sweeps away their swollen graveyards.
 - **Shared printings match Baylen.** Every card that also appears in the Baylen deck now uses the same artwork/printing across both decks (Sol Ring, Swords to Plowshares, Command Tower, the basics, etc.).
 - **Self-preservation is the pillow fort.** Reliquary Tower, Elixir of Immortality, Glacial Chasm, Sphere of Safety, and The One Ring keep the host safe and un-decked while the guests draw themselves out.
+
+---
+
+## Bracket 3 Conversion Kit (sideboard)
+
+Swap every **Swap out** card for its paired **Swap in** to drop this Bracket 4 build to a **Bracket 3**-legal deck (**3 or fewer Game Changers**). Package swap; the pairings are only for reference. Kept Game Changers: **Rhystic Study, Consecrated Sphinx, Smothering Tithe**. None of the swap-ins is a Game Changer, and the mill/draw core is left fully intact.
+
+| Swap in | Scryfall | Swap out | Note |
+|---------|----------|----------|------|
+| River's Rebuke | [🔗](https://scryfall.com/card/fdn/595/rivers-rebuke) | Cyclonic Rift *(GC)* | One-sided mass bounce. |
+| Mind's Eye | [🔗](https://scryfall.com/card/bbd/240/minds-eye) | The One Ring *(GC)* | Draws off opponents' draws — on-theme advantage. |
+| Mystical Teachings | [🔗](https://scryfall.com/card/fdn/594/mystical-teachings) | Mystical Tutor *(GC)* | Instant/sorcery tutor with flashback. |
+| Sterling Grove | [🔗](https://scryfall.com/card/mh2/293/sterling-grove) | Enlightened Tutor *(GC)* | Enchantment tutor for the mill engines. |
+| Supreme Verdict | [🔗](https://scryfall.com/card/clu/211/supreme-verdict) | Farewell *(GC)* | Uncounterable board wipe. |
+| Heroic Intervention | [🔗](https://scryfall.com/card/ltc/249/heroic-intervention) | Teferi's Protection *(GC)* | Hexproof + indestructible for your board. |
+| Wilderness Reclamation | [🔗](https://scryfall.com/card/dsc/205/wilderness-reclamation) | Seedborn Muse *(GC)* | Untaps your lands each end step for flash mana. |
+| Mind Stone | [🔗](https://scryfall.com/card/fic/353/mind-stone) | Mox Diamond *(GC)* | Rock + late-game draw. |
+| Coldsteel Heart | [🔗](https://scryfall.com/card/2x2/301/coldsteel-heart) | Chrome Mox *(GC)* | Rock, no card disadvantage. |
+| Mana Confluence | [🔗](https://scryfall.com/card/jou/163/mana-confluence) | Ancient Tomb *(GC — land)* | Untapped rainbow land. |
+| Mystic Sanctuary | [🔗](https://scryfall.com/card/soc/388/mystic-sanctuary) | Glacial Chasm *(GC — land)* | Recurs an instant/sorcery. |
+| Bonders' Enclave | [🔗](https://scryfall.com/card/otc/274/bonders-enclave) | Serra's Sanctum *(GC — land)* | Pay-to-draw card-advantage land. |

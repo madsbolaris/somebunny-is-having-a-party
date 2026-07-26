@@ -101,3 +101,15 @@ Sideboard
 1 Sea of Clouds (CLB)
 1 Rejuvenating Springs (MSC)
 1 Bountiful Promenade (MSC)
+1 River's Rebuke (FDN) 595
+1 Mind's Eye (BBD) 240
+1 Mystical Teachings (FDN) 594
+1 Sterling Grove (MH2) 293
+1 Supreme Verdict (CLU) 211
+1 Heroic Intervention (LTC) 249
+1 Wilderness Reclamation (DSC) 205
+1 Mind Stone (FIC) 353
+1 Coldsteel Heart (2X2) 301
+1 Mana Confluence (JOU) 163
+1 Mystic Sanctuary (SOC) 388
+1 Bonders' Enclave (OTC) 274

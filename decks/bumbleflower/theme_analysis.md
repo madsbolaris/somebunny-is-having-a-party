@@ -30,7 +30,7 @@
 | Mangara, the Diplomat | B4 | [🔗](https://scryfall.com/card/soc/155) | ❌ | ❌ | ✅ | 6 | The diplomat wedding-planner smoothing over every border on the tour — a 2/4 lifelink usher who bills you a card whenever a rival overcommits an attack or casts their second spell of the turn. Each card he hands the bride drains a guest's account a little lower. |
 | Bruvac the Grandiloquent | B4 | [🔗](https://scryfall.com/card/rvr/35) | ❌ | ❌ | ✅ | 7 | The long-winded officiant who reads every vow twice — repeating the same blessing as though no one heard him at the first seventeen ceremonies, so every charge a guest incurs is billed double. Grandiloquence weaponized into a mill doubler. |
 | Consecrated Sphinx | B4 | [🔗](https://scryfall.com/card/sld/165) | ❌ | ❌ | ✅ | 6 | The grasping in-law at the head table who pockets two cards every time a guest across the aisle draws — and a wedding this forced keeps the whole table drawing all day, so she rakes in a fortune while each of those draws empties their accounts. The wealth-siphon incarnate. |
-| Birds of Paradise | B4 | [🔗](https://scryfall.com/card/rvr/133) | ❌ | ❌ | ✅ | 4 | The exotic tropical birds released at the ceremony — gorgeous decor that quietly foots the bill by tapping for any color. |
+| Birds of Paradise | B4 | [🔗](https://scryfall.com/card/ltc/235) | ❌ | ❌ | ✅ | 4 | The exotic tropical birds released at the ceremony — gorgeous decor that quietly foots the bill by tapping for any color. |
 | Seedborn Muse | B4 | [🔗](https://scryfall.com/card/tdc/268/seedborn-muse) | ❌ | ❌ | ✅ | 6 | The tireless wedding planner who never sleeps — the instant the party phases to the next destination she already has the whole itinerary pinned back up, untapping every one of the bride's permanents on each rival's turn so the tolls, counters, and end-step Sphinx's Revelations never stop firing. The tour that resets fresh every single dawn. |
 
 ---
@@ -43,7 +43,7 @@
 | Mystical Tutor | B4 | [🔗](https://scryfall.com/card/dmr/60/mystical-tutor) | ❌ | ❌ | ✅ | 5 | The officiant divining the next reading — sets any instant or sorcery on top of the deck, whether that's the second Approach of the Second Sun, a Maddening Cacophony to bill the table, or a counter to guard the ceremony. Shares the DMR frame with the deck's other tutors. |
 | Teferi's Protection | B4 | [🔗](https://scryfall.com/card/2x2/32) | ❌ | ❌ | ✅ | 5 | Bumbleflower phases the whole party into a pocket dimension — the music keeps playing, the gifts keep flowing, and nothing can ruin the evening while the guests deck themselves out. |
 | Cyclonic Rift | B4 | [🔗](https://scryfall.com/card/cmm/84) | ❌ | ❌ | ❌ | 3 | When the party gets too crowded, Bumbleflower politely asks everyone else's guests to wait outside. A one-sided reset. |
-| Swords to Plowshares | B4 | [🔗](https://scryfall.com/card/blc/109) | ❌ | ❌ | ❌ | 3 | The bouncer's zero-tolerance policy, softened with a farewell gift of life. Out you go. |
+| Swords to Plowshares | B4 | [🔗](https://scryfall.com/card/drc/37) | ❌ | ❌ | ❌ | 3 | The bouncer's zero-tolerance policy, softened with a farewell gift of life. Out you go. |
 | Swan Song | B4 | [🔗](https://scryfall.com/card/c16/98) | ❌ | ❌ | ✅ | 5 | As the accounts run dry, they sing their final swan song — one elegant note silences a spoiler's spell and leaves them only a lovely 2/2 Bird to swoon over. The most romantic 'no' at the wedding. |
 | An Offer You Can't Refuse | B4 | [🔗](https://scryfall.com/card/fdn/160) | ❌ | ❌ | ✅ | 6 | The proposal nobody turns down — anyone who objects is offered a deal: the bride cancels a rival's plans and presses a Treasure into their paw by way of apology. When attendance is mandatory, this is how she asks. |
 | Sphinx's Revelation | B4 | [🔗](https://scryfall.com/card/plst/RVR-228/sphinxs-revelation) | ❌ | ❌ | ✅ | 6 | The officiant's grand revelation at the altar — for {X} the bride gains X life *and* draws X cards at instant speed, a heal and a refuel in a single breath. Alhammarret's Archive doubles both halves, and every card drawn bills the table through Psychic Corrosion, so one end-of-turn Revelation can swing her off the ropes and back to a fresh fortune while the guests' libraries thin. |
@@ -55,7 +55,7 @@
 
 ---
 
-## Sorceries (14)
+## Sorceries (13)
 
 | Card | Deck | Scryfall | Rabbit? | Rabbit Art? | Party? | Theme | Justification |
 |------|------|----------|---------|-------------|--------|-------|---------------|
@@ -69,7 +69,6 @@
 | Idyllic Tutor | B4 | [🔗](https://scryfall.com/card/mor/12) | ❌ | ❌ | ✅ | 4 | The wedding planner's little black book — pulls exactly the right enchantment (Psychic Corrosion, a Tutelage, Sphere of Safety) straight into the bride's hands, ready to play. |
 | Savor the Moment | B4 | [🔗](https://scryfall.com/card/sld/1006) | ❌ | ❌ | ✅ | 9 | "I do." The most on-theme card in the whole deck — the art *is* the wedding, vows and all. Mechanically it buys the bride one more turn to savor the moment (an extra draw step = another bill for the guests, another toast, another leg booked); flavorfully, it's the ceremony itself. |
 | Approach of the Second Sun | B4 | [🔗](https://scryfall.com/card/q06/1/approach-of-the-second-sun) | ❌ | ❌ | ✅ | 8 | The second "I do." Cast it once and it slips back into the library while the bride banks 7 life to keep the tour rolling; cast it a second time and the wedding is official — she wins the game outright. The whole compulsory world tour was really just buying time until she could say the vows twice. |
-| Three Visits | B4 | [🔗](https://scryfall.com/card/fic/315/three-visits) | ❌ | ❌ | ✅ | 5 | The bride sending scouts ahead to secure the next venue — fetches a Forest straight onto the tour, untapped and ready to bankroll the day's billing. Green ramp that keeps the world tour ahead of schedule. |
 | Farseek | B4 | [🔗](https://scryfall.com/card/tdc/255/farseek) | ❌ | ❌ | ✅ | 5 | Charting a course to a distant coastline — pulls a dual shoreline onto the map so the tour never stalls between destinations. Quiet, reliable itinerary-building. |
 | Traumatize | B4 | [🔗](https://scryfall.com/card/m14/77/traumatize) | ❌ | ❌ | ✅ | 6 | The moment the whole exhausting world tour catches up with a single guest — half their savings gone at once, and with Bruvac or Fraying Sanity on them it's the *whole* account. One rival, decked out in a breath. |
 | Long-Term Plans | B4 | [🔗](https://scryfall.com/card/scg/38/long-term-plans) | ❌ | ❌ | ✅ | 7 | The wedding planner's long-term plans — tuck *any* card into the itinerary a few pages down, and with the bride drawing at a runaway pace it's in her hands almost immediately. The one tutor that finds a win condition, a combo piece, or a counter, not just a decoration. |
@@ -95,7 +94,7 @@
 
 ---
 
-## Enchantments (14)
+## Enchantments (15)
 
 | Card | Deck | Scryfall | Rabbit? | Rabbit Art? | Party? | Theme | Justification |
 |------|------|----------|---------|-------------|--------|-------|---------------|
@@ -107,6 +106,7 @@
 | Forced Fruition | B4 | [🔗](https://scryfall.com/card/lrw/66) | ❌ | ❌ | ✅ | 8 | The most aggressive registry imaginable — every indulgence a guest permits themselves (each spell they cast) is *forced* into seven more obligations charged to their tab. No savings survive that kindness for long. |
 | Smothering Tithe | B4 | [🔗](https://scryfall.com/card/2x2/342) | ❌ | ❌ | ✅ | 6 | The collection plate passed at every service — and at a wedding that makes everyone draw constantly, the Treasures pour in like a receiving-line shakedown. Someone has to fund the honeymoon. |
 | Rhystic Study | B4 | [🔗](https://scryfall.com/card/j22/114) | ❌ | ❌ | ✅ | 4 | "Unless you'd care to pay..." The wedding toll booth — every rival spell either costs them or hands you another card. Pure, greedy value. |
+| Mystic Remora | B4 | [🔗](https://scryfall.com/card/ice/87/mystic-remora) | ❌ | ❌ | ✅ | 6 | The early-bird toll clamped to the venue door — a cheap little remora that skims a card off the bride every time a guest casts anything without slipping her {4} at the entrance. A few coins of upkeep keep it clinging on, and every free card it reels in bills the table through the mill engines. The tollbooth that pays for itself. |
 | Sylvan Library | B4 | [🔗](https://scryfall.com/card/dmr/179) | ❌ | ❌ | ❌ | 2 | The quiet corner where the bookish guests gather. Look at three, keep the extras for a little life. |
 | Burgeoning | B4 | [🔗](https://scryfall.com/card/cn2/178) | ❌ | ❌ | ✅ | 4 | The tour outruns its own schedule — every time a guest checks into a stop (plays a land), the bride books another destination straight from her hand. With the whole table drawing and traveling, the wedding circles the globe fast. |
 | Exploration | B4 | [🔗](https://scryfall.com/card/cns/164) | ❌ | ❌ | ✅ | 4 | The bride scouting the next coastline — an extra destination every turn, turning a hand clogged with venues into mana for the billing engines and thinning the deck so more invoices flow. |
@@ -138,14 +138,14 @@
 | Temple Garden | B4 | [🔗](https://scryfall.com/card/ecl/268) | ❌ | ❌ | ✅ | 4 | The green-white temple gardens — fetchable by everything, exactly where a destination wedding belongs. |
 | Hengegate Pathway | B4 | [🔗](https://scryfall.com/card/khm/260) | ❌ | ❌ | ❌ | 3 | The gatehouse-bridge stop — take the white road or the blue, whichever the leg needs, and always arrive untapped. |
 | Flooded Grove | B4 | [🔗](https://scryfall.com/card/soc/373) | ❌ | ❌ | ✅ | 3 | The flooded grove at the water's edge — filters colorless into the blue-green mana that keeps the tour moving. |
-| Brushland | B4 | [🔗](https://scryfall.com/card/bro/259) | ❌ | ❌ | ✅ | 3 | The scrubland clearing where the green-white tent goes up — ready the moment the tour rolls in, for the small price of a scratch. |
+| Brushland | B4 | [🔗](https://scryfall.com/card/ltc/297) | ❌ | ❌ | ✅ | 3 | The scrubland clearing where the green-white tent goes up — ready the moment the tour rolls in, for the small price of a scratch. |
 | Mystic Gate | B4 | [🔗](https://scryfall.com/card/cmm/1013) | ❌ | ❌ | ❌ | 3 | The shimmering white-blue archway leg — painless filter fixing for the exact color the next toast calls for. |
 | Ancient Tomb | B4 | [🔗](https://scryfall.com/card/uma/236) | ❌ | ❌ | ❌ | 2 | The after-hours ruins — two colorless mana, two life. Opens late, hits hard, and doesn't care about your theme. Pure power. |
 | Waterlogged Grove | B4 | [🔗](https://scryfall.com/card/ha7/25) | ❌ | ❌ | ✅ | 3 | The flooded green-blue grove at the water's edge — untapped fixing for a drop of life, and when the tour floods with lands, cash it in for one more card (and one more bill). |
 | Glacial Fortress | B4 | [🔗](https://scryfall.com/card/msc/248) | ❌ | ❌ | ❌ | 2 | The white-blue check-in — enters ready whenever a Plains or Island is already on the tour. |
 | Hinterland Harbor | B4 | [🔗](https://scryfall.com/card/msc/250) | ❌ | ❌ | ❌ | 2 | The green-blue harbor where the boat guests dock. Untapped once the tour's set up. |
-| Sunpetal Grove | B4 | [🔗](https://scryfall.com/card/tdc/399) | ❌ | ❌ | ✅ | 3 | The sunlit-grove destination where the garden ceremony unfolds. Painless green-white fixing. |
-| Flooded Strand | B4 | [🔗](https://scryfall.com/card/mh3/220) | ❌ | ❌ | ❌ | 2 | The seaside strand where guests arrive by boat. Fetches a Plains or Island stop. |
+| Sunpetal Grove | B4 | [🔗](https://scryfall.com/card/fic/432) | ❌ | ❌ | ✅ | 3 | The sunlit-grove destination where the garden ceremony unfolds. Painless green-white fixing. |
+| Flooded Strand | B4 | [🔗](https://scryfall.com/card/ktk/233) | ❌ | ❌ | ❌ | 2 | The seaside strand where guests arrive by boat. Fetches a Plains or Island stop. |
 | Windswept Heath | B4 | [🔗](https://scryfall.com/card/ktk/248) | ❌ | ❌ | ❌ | 2 | The wind-blown heath. Fetches Forest or Plains — runs to grab Savannah or Temple Garden. |
 | Misty Rainforest | B4 | [🔗](https://scryfall.com/card/mh2/250) | ❌ | ❌ | ❌ | 1 | The misty trail to the venue. Fetches Forest or Island. Atmospheric logistics. |
 | Prismatic Vista | B4 | [🔗](https://scryfall.com/card/mh1/244) | ❌ | ❌ | ❌ | 1 | The shimmering path that fetches any basic destination. Pure, colorless logistics. |

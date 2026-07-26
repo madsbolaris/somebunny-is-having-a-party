@@ -6,6 +6,9 @@ tagline = "Everybunny's invited. Not everybunny leaves."
 strategy = "Naya rabbit tribal — go wide with tokens, then flip the table with an overrun."
 brackets = ["b4"]
 
+# Extra cards bought as foil (beyond the commander + pinned trio).
+extra_foils = ["Finale of Devastation", "Grand Crescendo"]
+
 [mosaic]
 # A card is "highlighted" (🐰 marker + sorts first within its color/type group) when
 # any of these theme_analysis columns contains a ✅ for that card.

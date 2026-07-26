@@ -38,7 +38,7 @@ The `Core?` column flags the load-bearing engine pieces (they sort first within 
 
 | Card | Scryfall | Core? | Food? | Role |
 |------|----------|-------|-------|------|
-| Sol Ring | [🔗](https://scryfall.com/card/tmc/59) |  |  | Two colorless on turn one — the fastest start. |
+| Sol Ring | [🔗](https://scryfall.com/card/drc/57) |  |  | Two colorless on turn one — the fastest start. |
 | Arcane Signet | [🔗](https://scryfall.com/card/ltc/273) |  |  | Clean two-color fixing. |
 | Mox Diamond | [🔗](https://scryfall.com/card/sth/138) |  |  | Free turn-one acceleration at a land's cost. |
 | Chrome Mox | [🔗](https://scryfall.com/card/2xm/240) |  |  | Free acceleration — imprint a colored card for a turn-one mana rock. |
@@ -82,7 +82,7 @@ The `Core?` column flags the load-bearing engine pieces (they sort first within 
 | Placid Rottentail | [🔗](https://scryfall.com/card/mom/199) |  |  | The thing staring back from the pantry. A one-mana vigilance Rabbit (Finneas counters it natively), and from the graveyard pay {2}{G} to exile it for two +1/+1 counters — counter value even after it's been sent through Witch's Oven or High Market. |
 | Mycoloth | [🔗](https://scryfall.com/card/sld/2205) | ✅ |  | The Cordyceps Rat King, climbing up from the cellar to take his seat at the head of the table. Devour your spare guests as it enters — sacrifice tokens for double the +1/+1 counters (the Ozolith banks theirs) — then it spawns a Saproling per counter every upkeep. The doublers make it monstrous. Not everybunny leaves. |
 | Hop to It | [🔗](https://scryfall.com/card/blb/16) |  |  | Three 1/1 Rabbit tokens in one card — instant Finneas fodder, doubler fuel, and Devour snacks for Mycoloth. |
-| March of the Multitudes | [🔗](https://scryfall.com/card/grn/188) |  |  | Convoke out X 1/1 lifelink Soldiers from an empty board, then populate every time a creature enters the rest of the turn — a token *starter* that snowballs, and the lifelink pours into Heliod, Archangel, and the Pridemate. |
+| March of the Multitudes | [🔗](https://scryfall.com/card/ncc/346) |  |  | Convoke out X 1/1 lifelink Soldiers from an empty board, then populate every time a creature enters the rest of the turn — a token *starter* that snowballs, and the lifelink pours into Heliod, Archangel, and the Pridemate. |
 
 ## Token, Food & Counter Doublers
 
@@ -130,11 +130,11 @@ The `Core?` column flags the load-bearing engine pieces (they sort first within 
 
 | Card | Scryfall | Core? | Food? | Role |
 |------|----------|-------|-------|------|
-| Swords to Plowshares | [🔗](https://scryfall.com/card/drc/37) |  |  | The premier one-mana answer to the one threat you can't out-grow. |
+| Swords to Plowshares | [🔗](https://scryfall.com/card/eoc/45) |  |  | The premier one-mana answer to the one threat you can't out-grow. |
 | Path to Exile | [🔗](https://scryfall.com/card/soc/159) |  |  | One-mana exile for anything urgent. |
 | Beast Within | [🔗](https://scryfall.com/card/ltc/234) |  |  | Destroys any permanent at instant speed. |
 | Aura Shards | [🔗](https://scryfall.com/card/cmd/182) |  |  | Every creature ETB shatters an artifact or enchantment — repeatable with the token flood. |
-| Farewell | [🔗](https://scryfall.com/card/m3c/170) |  |  | A modular exile wipe — clear any mix of creatures, artifacts, enchantments, and graveyards; exile dodges recursion and indestructible. |
+| Farewell | [🔗](https://scryfall.com/card/who/798) |  |  | A modular exile wipe — clear any mix of creatures, artifacts, enchantments, and graveyards; exile dodges recursion and indestructible. |
 | Pawpatch Formation | [🔗](https://scryfall.com/card/blb/186) |  |  | A flexible instant — kill a flyer, blow up an enchantment, or draw a card and make a Food. |
 | Sundering Growth | [🔗](https://scryfall.com/card/c19/203) |  |  | Instant-speed pruning shears — snap an artifact or enchantment (a rival's pillow-fort lock or mana rock, or your own spent Food) and *populate*, copying your best token so the answer also leaves an extra guest at the table. |
 

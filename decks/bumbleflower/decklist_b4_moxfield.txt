@@ -7,13 +7,13 @@ Commander
 1 Exploration (CNS) 164
 1 Arcane Signet (TDC) 105
 1 Tempt with Discovery (BLC) 124
-1 Psychic Spiral (RTR)
+1 Psychic Spiral (RTR) 47
 1 Sphinx's Revelation (PLST) RVR-228
-1 Birds of Paradise (RVR) 133
+1 Birds of Paradise (LTC) 235
 1 Teferi's Puzzle Box (J22) 801
 1 Mystical Tutor (DMR) 60
-1 Brushland (BRO) 259
-1 Growth Spiral (LTC)
+1 Brushland (LTC) 297
+1 Growth Spiral (LTC) 267
 1 Selvala, Explorer Returned (MKC) 218
 1 Mangara, the Diplomat (SOC) 155
 1 Replenish (UDS) 15
@@ -23,7 +23,7 @@ Commander
 1 Jace, Wielder of Mysteries (SLD) 506
 1 Seedborn Muse (TDC) 268
 1 Wedding Ring (WHO) 1059
-1 Three Visits (FIC) 315
+1 Mystic Remora (ICE) 87
 1 Psychic Corrosion (M19) 68
 1 Sphinx's Tutelage (ORI) 76
 1 Teferi's Tutelage (M21) 78
@@ -42,9 +42,9 @@ Commander
 1 Folio of Fancies (ELD) 46
 1 Enlightened Tutor (DMR) 6
 1 Temple Bell (C16) 277
-1 Generous Patron (BBD)
+1 Generous Patron (BBD) 70
 1 Idyllic Tutor (MOR) 12
-1 Swords to Plowshares (BLC) 109
+1 Swords to Plowshares (DRC) 37
 1 Farseek (TDC) 255
 1 Mind Over Matter (EXO) 40
 1 Traumatize (M14) 77
@@ -72,14 +72,14 @@ Commander
 1 Hallowed Fountain (ECL) 265
 1 Breeding Pool (EOE) 251
 1 Temple Garden (ECL) 268
-1 Flooded Strand (MH3) 220
+1 Flooded Strand (KTK) 233
 1 Windswept Heath (KTK) 248
 1 Misty Rainforest (MH2) 250
 1 Prismatic Vista (MH1) 244
 1 Waterlogged Grove (HA7) 25
 1 Glacial Fortress (MSC) 248
 1 Hinterland Harbor (MSC) 250
-1 Sunpetal Grove (TDC) 399
+1 Sunpetal Grove (FIC) 432
 1 Mystic Gate (CMM) 1013
 1 Hengegate Pathway (KHM) 260
 1 Ancient Tomb (UMA) 236

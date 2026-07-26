@@ -59,11 +59,12 @@ Ramp · Fix · Enabler (makes everyone draw) · Payoff (turns draws/mill into a 
 
 ---
 
-## Your card advantage (10)
+## Your card advantage (11)
 
 | Card | Role | Power | Note |
 |------|------|:-----:|------|
 | Rhystic Study | Draw | 9 | Premium. Runaway advantage that also feeds every mill payoff. |
+| Mystic Remora | Draw | 6 | Cheap turn-one "pay {4} or I draw" tax — a Rhystic-lite that skims cards (and mill triggers) while you set up; the upkeep dues let you drop it once the engines are online. |
 | Consecrated Sphinx | Draw | 8 | Two cards every time an opponent draws — and this deck force-feeds them draws all game. Explosive advantage, and each card you take also mills them lower. |
 | The One Ring | Draw / Protect | 8 | ETB gives you protection from everything until your next turn — a free "don't lose" button — then draws an escalating pile each upkeep. Colorless, and every card it draws also mills. Fetchable by Enlightened Tutor. |
 | Sylvan Library | Draw | 8 | Premium selection + advantage; the life cost is cheap behind the pillow fort. |
@@ -78,7 +79,7 @@ Ramp · Fix · Enabler (makes everyone draw) · Payoff (turns draws/mill into a 
 
 ---
 
-## Ramp & fast mana (12)
+## Ramp & fast mana (11)
 
 | Card | Role | Power | Note |
 |------|------|:-----:|------|
@@ -92,7 +93,6 @@ Ramp · Fix · Enabler (makes everyone draw) · Payoff (turns draws/mill into a 
 | Exploration | Ramp (land drops) | 6 | One extra land drop every turn — empties a land-clogged hand into mana for Folio / Riverchurn and thins future draws. |
 | Tempt with Discovery | Ramp + Fix | 6 | Group-hug land tutor — grabs *any* land (Serra's Sanctum, Reliquary Tower) and ramps you per opponent who bites. |
 | Farseek | Fix / Ramp | 5 | Fetches a shock/dual to keep the three colors flowing. |
-| Three Visits | Fix / Ramp | 5 | Fetches a Forest-typed land untapped — smooths the green splash. |
 | Open the Way | Ramp | 5 | Everyone digs lands to hand; you pull the biggest pile to fuel the engines. |
 
 **Assessment:** ~9 accelerants for a curve that tops around 5–7 is **mana-heavy** (flood risk), but the mana sinks — Riverchurn, Folio, Kwain, Bumbleflower re-casts, Mind Over Matter, X-spells — soak the excess, and the land-drop enablers (Exploration, Burgeoning) turn flood into extra mana instead of dead cards.

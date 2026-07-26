@@ -6,6 +6,9 @@ tagline = "Somebunny made too much. Everybunny brought a dish, nobody leaves hun
 strategy = "Selesnya (G/W) Food-and-tokens potluck. Everyone brings a dish (Food tokens) and leaves the table bigger (+1/+1 counters), because in this deck a Food is 3 stored life and life turns into power: Heliod converts lifegain to counters, Archangel pumps the board, Well of Lost Dreams and Academy Manufactor cash the feast into cards and mana, and Kitchen Finks loops with Heliod for infinite life. Finneas showers the whole crowd with counters each attack, Maskwood makes every guest count for every payoff, and the game ends on a counter-swollen lifelink board or the Heliod + Walking Ballista combo — a feast that never stops growing."
 brackets = ["b4"]
 
+# Extra cards bought as foil (beyond the commander + pinned trio).
+extra_foils = ["Placid Rottentail"]
+
 [mosaic]
 # A card is "highlighted" (marker + sorts first within its color/type group) when
 # any of these theme_analysis columns contains a ✅ for that card.

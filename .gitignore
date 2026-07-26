@@ -4,3 +4,7 @@
 # Python
 __pycache__/
 *.py[cod]
+
+# Scryfall bulk-data cache + downloaded art crops (transient)
+scripts/.cache/
+card_images/_artcrop_cache/
